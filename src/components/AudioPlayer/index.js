@@ -1,7 +1,6 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
 import React, { useState } from "react"
-import { useBreakpointIndex } from "@theme-ui/match-media"
 
 import { useEpisodeState } from "../../context/EpisodeProvider"
 import { useAudioDispatch } from "../../context/AudioProvider"
@@ -84,7 +83,6 @@ const episodeTitle = {
 }
 
 const AudioPlayer = ({ latestEpisode, ...props }) => {
-  const breakpoint = useBreakpointIndex()
   const [visible, setVisible] = useState(false)
   const episode = useEpisodeState()
   const { play, pause, isPlaying } = useAudioDispatch()
@@ -105,7 +103,12 @@ const AudioPlayer = ({ latestEpisode, ...props }) => {
         <Box
           sx={{
             ...audioPlayerSettings,
-            display: visible || breakpoint > 3 ? "block" : "none",
+            display: [
+              visible ? "block" : "none",
+              visible ? "block" : "none",
+              visible ? "block" : "none",
+              "block",
+            ],
           }}
         >
           <Settings
