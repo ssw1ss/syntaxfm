@@ -1,0 +1,2235 @@
+[
+  {
+    "id": "81302de2-03b4-5a08-bf92-e74088c7718c",
+    "fields": {
+      "slug": "episodes/potluck-tabs-are-better-coding-music-seo-is-angular-good-biggie-smalls-soy-sauce-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Tabs are better? × Coding Music × SEO × Is Angular good? × Biggie Smalls × Soy Sauce × More!",
+      "number": 202,
+      "url": "https://traffic.libsyn.com/syntax/Syntax202.mp3"
+    }
+  },
+  {
+    "id": "6bddbff8-7e17-533f-834b-cf0530b278c0",
+    "fields": {
+      "slug": "episodes/hasty-treat-new-css-logical-properties"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - New CSS Logical Properties",
+      "number": 201,
+      "url": "https://traffic.libsyn.com/syntax/Syntax201.mp3"
+    }
+  },
+  {
+    "id": "59485575-4544-5862-a98f-efd16c8c7871",
+    "fields": {
+      "slug": "episodes/show-200"
+    },
+    "frontmatter": {
+      "title": "Show 200!",
+      "number": 200,
+      "url": "https://traffic.libsyn.com/syntax/Syntax200.mp3"
+    }
+  },
+  {
+    "id": "d41d52cb-72fc-5dd8-9526-39451555836f",
+    "fields": {
+      "slug": "episodes/hasty-treat-so-you-want-to-make-a-course-will-people-buy-it"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - So you want to make a course... Will people buy it?",
+      "number": 199,
+      "url": "https://traffic.libsyn.com/syntax/Syntax199.mp3"
+    }
+  },
+  {
+    "id": "da8c505b-f3a2-574d-a35b-e001b875f6ac",
+    "fields": {
+      "slug": "episodes/how-to-get-better-at-problem-solving"
+    },
+    "frontmatter": {
+      "title": "How To Get Better At Problem Solving",
+      "number": 198,
+      "url": "https://traffic.libsyn.com/syntax/Syntax198.mp3"
+    }
+  },
+  {
+    "id": "65197d7f-b263-54fd-b98a-ff32a21834fa",
+    "fields": {
+      "slug": "episodes/hasty-treat-tips-for-writing-good-css"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Tips For Writing Good CSS",
+      "number": 197,
+      "url": "https://traffic.libsyn.com/syntax/Syntax197.mp3"
+    }
+  },
+  {
+    "id": "c95a71a1-4c2e-529a-b8f7-e7ecd11e4f1b",
+    "fields": {
+      "slug": "episodes/design-foundations-for-developers"
+    },
+    "frontmatter": {
+      "title": "Design Foundations For Developers",
+      "number": 196,
+      "url": "https://traffic.libsyn.com/syntax/Syntax196.mp3"
+    }
+  },
+  {
+    "id": "ee966e42-8dea-568e-8fe8-fb25e4300aa6",
+    "fields": {
+      "slug": "episodes/hasty-treat-buying-and-selling-domain-names"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Buying and Selling Domain Names",
+      "number": 195,
+      "url": "https://traffic.libsyn.com/syntax/Syntax195.mp3"
+    }
+  },
+  {
+    "id": "2b3c3b4e-c99b-55e5-886b-88c7814df257",
+    "fields": {
+      "slug": "episodes/potluck-gatsby-vs-next-is-google-home-spying-on-you-flat-file-cms-css-frameworks-hosting-client-sites-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Gatsby vs Next × Is Google Home spying on you? × Flat File CMS × CSS Frameworks × Hosting Client Sites × More!",
+      "number": 194,
+      "url": "https://traffic.libsyn.com/syntax/Syntax194.mp3"
+    }
+  },
+  {
+    "id": "a537453d-f876-532b-8b76-58cdfe007ae7",
+    "fields": {
+      "slug": "episodes/hasty-treat-spooky-stories"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Spooky Stories",
+      "number": 193,
+      "url": "https://traffic.libsyn.com/syntax/Syntax193.mp3"
+    }
+  },
+  {
+    "id": "5bd47b33-2dda-5c49-adaf-0f0897eb2649",
+    "fields": {
+      "slug": "episodes/spooky-web-dev-horror-stories"
+    },
+    "frontmatter": {
+      "title": "Spooky Web Dev Horror Stories",
+      "number": 192,
+      "url": "https://traffic.libsyn.com/syntax/Syntax192.mp3"
+    }
+  },
+  {
+    "id": "27cdd484-39bd-518c-810d-02287de7e2fc",
+    "fields": {
+      "slug": "episodes/hasty-treat-scott-moves-to-i-phone"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Scott Moves to iPhone",
+      "number": 191,
+      "url": "https://traffic.libsyn.com/syntax/Syntax191.mp3"
+    }
+  },
+  {
+    "id": "17b8c757-af11-57c3-95de-db2928f16c3b",
+    "fields": {
+      "slug": "episodes/migrating-deploying-and-hosting-word-press"
+    },
+    "frontmatter": {
+      "title": "Migrating, Deploying, and Hosting WordPress",
+      "number": 190,
+      "url": "https://traffic.libsyn.com/syntax/Syntax190.mp3"
+    }
+  },
+  {
+    "id": "52c47e8b-207e-509d-a266-0b42ae010dfd",
+    "fields": {
+      "slug": "episodes/hasty-treat-react-server-side-rendering"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - React Server Side Rendering",
+      "number": 189,
+      "url": "https://traffic.libsyn.com/syntax/Syntax189.mp3"
+    }
+  },
+  {
+    "id": "40a70c1a-b0df-58c1-8bae-c933a8216250",
+    "fields": {
+      "slug": "episodes/the-fundamentals-server-side"
+    },
+    "frontmatter": {
+      "title": "The Fundamentals - Server Side",
+      "number": 188,
+      "url": "https://traffic.libsyn.com/syntax/Syntax188.mp3"
+    }
+  },
+  {
+    "id": "b8d0205d-0094-59b3-a6ff-07d01ed756c6",
+    "fields": {
+      "slug": "episodes/hasty-treat-float-tank-experiences"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Float Tank Experiences",
+      "number": 187,
+      "url": "https://traffic.libsyn.com/syntax/Syntax187.mp3"
+    }
+  },
+  {
+    "id": "76408a41-d97c-5eb4-a4cb-290e8fd016d2",
+    "fields": {
+      "slug": "episodes/potluck-terminal-configs-css-reset-flexbox-freelancing-npm-dependencies-project-hand-off-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Terminal Configs × CSS Reset × Flexbox × Freelancing × NPM Dependencies × Project Hand-off × More!",
+      "number": 186,
+      "url": "https://traffic.libsyn.com/syntax/Syntax186.mp3"
+    }
+  },
+  {
+    "id": "e37ce475-eaa0-556e-b515-ed39191e0f3e",
+    "fields": {
+      "slug": "episodes/hasty-treat-feature-release-planning"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Feature + Release Planning",
+      "number": 185,
+      "url": "https://traffic.libsyn.com/syntax/SFF185.mp3"
+    }
+  },
+  {
+    "id": "bbc64d4c-9f9f-5f32-8043-ab5c144f1185",
+    "fields": {
+      "slug": "episodes/desktop-and-mobile-apps-with-a-single-codebase"
+    },
+    "frontmatter": {
+      "title": "Desktop & Mobile Apps With a Single Codebase",
+      "number": 184,
+      "url": "https://traffic.libsyn.com/syntax/Syntax184.mp3"
+    }
+  },
+  {
+    "id": "ed09fc24-c24d-5a2e-8b12-9d8de1620d70",
+    "fields": {
+      "slug": "episodes/hasty-treat-developing-better-habits"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Developing Better Habits",
+      "number": 183,
+      "url": "https://traffic.libsyn.com/syntax/Syntax183.mp3"
+    }
+  },
+  {
+    "id": "49922f19-3d50-5f85-ac88-19deab047832",
+    "fields": {
+      "slug": "episodes/practical-how-would-we-build-airbnb-twitter-or-reddit"
+    },
+    "frontmatter": {
+      "title": "Practical - How would we build Airbnb, Twitter, or Reddit?",
+      "number": 182,
+      "url": "https://traffic.libsyn.com/syntax/Syntax182.mp3"
+    }
+  },
+  {
+    "id": "7b9f00e6-b017-5b22-8d84-33bbfe8088f1",
+    "fields": {
+      "slug": "episodes/hasty-treat-automating-stuff"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Automating Stuff",
+      "number": 181,
+      "url": "https://traffic.libsyn.com/syntax/Syntax181.mp3"
+    }
+  },
+  {
+    "id": "72afee2b-124f-5ae0-9d47-405c878e98e1",
+    "fields": {
+      "slug": "episodes/potluck-why-webpack-serverless-agencies-recruiters-css-grid-mq-in-styled-components"
+    },
+    "frontmatter": {
+      "title": "Potluck - Why Webpack? × Serverless × Agencies × Recruiters × CSS Grid × MQ in Styled Components",
+      "number": 180,
+      "url": "https://traffic.libsyn.com/syntax/Syntax180.mp3"
+    }
+  },
+  {
+    "id": "82d49c70-9e3b-5a1e-ba68-332b84401fc9",
+    "fields": {
+      "slug": "episodes/hasty-treat-the-tld-game"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - The TLD Game",
+      "number": 179,
+      "url": "https://traffic.libsyn.com/syntax/Syntax179.mp3"
+    }
+  },
+  {
+    "id": "3158fb56-1329-5137-b79b-13e17148e109",
+    "fields": {
+      "slug": "episodes/how-we-record-edit-and-host-our-courses"
+    },
+    "frontmatter": {
+      "title": "How We Record, Edit, and Host Our Courses",
+      "number": 178,
+      "url": "https://traffic.libsyn.com/syntax/Syntax178.mp3"
+    }
+  },
+  {
+    "id": "ab743755-9112-5e11-b4c8-5ccfe899ff56",
+    "fields": {
+      "slug": "episodes/hasty-treat-moving-from-php-to-node"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Moving from PHP to Node",
+      "number": 177,
+      "url": "https://traffic.libsyn.com/syntax/Syntax177.mp3"
+    }
+  },
+  {
+    "id": "7cb00b03-1cff-54d7-955a-ab09708ebb22",
+    "fields": {
+      "slug": "episodes/building-steam-games-with-react"
+    },
+    "frontmatter": {
+      "title": "Building Steam Games with React",
+      "number": 176,
+      "url": "https://traffic.libsyn.com/syntax/Syntax176.mp3"
+    }
+  },
+  {
+    "id": "9c41e6f3-7a57-5c1f-8f83-28a1641e6415",
+    "fields": {
+      "slug": "episodes/hasty-treat-stump-d"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Stump'd",
+      "number": 175,
+      "url": "https://traffic.libsyn.com/syntax/Syntax175.mp3"
+    }
+  },
+  {
+    "id": "e0508c1d-c8f5-5a62-99e6-7e9922d0fea0",
+    "fields": {
+      "slug": "episodes/how-to-build-an-api"
+    },
+    "frontmatter": {
+      "title": "How to Build an API",
+      "number": 174,
+      "url": "https://traffic.libsyn.com/syntax/Syntax174.mp3"
+    }
+  },
+  {
+    "id": "aea41cf4-eea3-520b-90a4-bd779f69e489",
+    "fields": {
+      "slug": "episodes/hasty-treat-wes-and-scott-look-at-svelte-3"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Wes & Scott Look At Svelte 3",
+      "number": 173,
+      "url": "https://traffic.libsyn.com/syntax/Syntax173.mp3"
+    }
+  },
+  {
+    "id": "c0679111-8851-52ef-86ef-2c75a45497f8",
+    "fields": {
+      "slug": "episodes/potluck-deploying-applications-typescript-live-coding-with-twitch-fullstack-architecture-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Deploying Applications × Typescript × Live Coding with Twitch × Fullstack Architecture × More!",
+      "number": 172,
+      "url": "https://traffic.libsyn.com/syntax/Syntax172.mp3"
+    }
+  },
+  {
+    "id": "8c6e915e-d53c-5bd4-b13d-a5a6dd4b2f81",
+    "fields": {
+      "slug": "episodes/hasty-treat-how-to-publish-a-react-component-to-npm"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - How To Publish A React Component To NPM",
+      "number": 171,
+      "url": "https://traffic.libsyn.com/syntax/Syntax171.mp3"
+    }
+  },
+  {
+    "id": "4256cfc3-bedb-5caf-a212-dac89793c566",
+    "fields": {
+      "slug": "episodes/state-in-react"
+    },
+    "frontmatter": {
+      "title": "State In React",
+      "number": 170,
+      "url": "https://traffic.libsyn.com/syntax/Syntax170.mp3"
+    }
+  },
+  {
+    "id": "ceaf7b60-1359-5086-bf3b-abac9a16212e",
+    "fields": {
+      "slug": "episodes/hasty-treat-remote-internet"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Remote Internet",
+      "number": 169,
+      "url": "https://traffic.libsyn.com/syntax/Syntax169.mp3"
+    }
+  },
+  {
+    "id": "447c4ee3-bd65-5603-b34f-29685021230f",
+    "fields": {
+      "slug": "episodes/blogging"
+    },
+    "frontmatter": {
+      "title": "Blogging",
+      "number": 168,
+      "url": "https://traffic.libsyn.com/syntax/Syntax168.mp3"
+    }
+  },
+  {
+    "id": "3b31432f-d844-5925-955e-24920cd542fa",
+    "fields": {
+      "slug": "episodes/hasty-treat-vs-code-love-part-3"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - VSCode Love Part 3",
+      "number": 167,
+      "url": "https://traffic.libsyn.com/syntax/Syntax167.mp3"
+    }
+  },
+  {
+    "id": "7df0497e-b1ba-547e-a245-a752a4189fcb",
+    "fields": {
+      "slug": "episodes/potluck-what-is-state-web-sockets-remote-working-firefox-machines-taking-our-jobs-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - What is \"State\"? × Web Sockets × Remote Working × Firefox × Machines Taking Our Jobs × More!",
+      "number": 166,
+      "url": "https://traffic.libsyn.com/syntax/Syntax166.mp3"
+    }
+  },
+  {
+    "id": "a2f5f185-1ad3-5ae1-9dea-03b2fdd6683a",
+    "fields": {
+      "slug": "episodes/hasty-treat-vs-code-treats-part-2"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - VSCode Treats Part 2",
+      "number": 165,
+      "url": "https://traffic.libsyn.com/syntax/Syntax165.mp3"
+    }
+  },
+  {
+    "id": "3d19a31f-0788-5cc1-a590-90a056dda980",
+    "fields": {
+      "slug": "episodes/a-story-about-kanye-west-and-learning-to-code"
+    },
+    "frontmatter": {
+      "title": "A Story About Kanye West and Learning to Code",
+      "number": 164,
+      "url": "https://traffic.libsyn.com/syntax/Syntax164.mp3"
+    }
+  },
+  {
+    "id": "98679b82-6ab7-5a0b-916d-14e0b823ae34",
+    "fields": {
+      "slug": "episodes/hasty-treat-web-dev-resource-sick-picks"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Web Dev Resource Sick Picks",
+      "number": 163,
+      "url": "https://traffic.libsyn.com/syntax/Syntax163.mp3"
+    }
+  },
+  {
+    "id": "325d8751-d2eb-5350-bc92-87fd9dc854a8",
+    "fields": {
+      "slug": "episodes/the-fundamentals-js"
+    },
+    "frontmatter": {
+      "title": "The Fundamentals — JS",
+      "number": 162,
+      "url": "https://traffic.libsyn.com/syntax/Syntax162.mp3"
+    }
+  },
+  {
+    "id": "a9c5421d-3eb3-5097-8a02-4d74d2c2b99d",
+    "fields": {
+      "slug": "episodes/hasty-treat-vs-code-extensions-and-themes"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - VSCode Extensions & Themes",
+      "number": 161,
+      "url": "https://traffic.libsyn.com/syntax/Syntax161.mp3"
+    }
+  },
+  {
+    "id": "0947c5dd-fe8d-537b-85a4-74c771e13710",
+    "fields": {
+      "slug": "episodes/graph-ql-and-word-press"
+    },
+    "frontmatter": {
+      "title": "GraphQL and WordPress",
+      "number": 160,
+      "url": "https://traffic.libsyn.com/syntax/Syntax160.mp3"
+    }
+  },
+  {
+    "id": "7042fab7-716a-54b0-9260-177e9b50d847",
+    "fields": {
+      "slug": "episodes/hasty-treat-front-end-security"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Front End Security",
+      "number": 159,
+      "url": "https://traffic.libsyn.com/syntax/Syntax159.mp3"
+    }
+  },
+  {
+    "id": "8783efe4-0d9a-56fb-9dd1-f10680b48d71",
+    "fields": {
+      "slug": "episodes/the-fundamentals-html-css"
+    },
+    "frontmatter": {
+      "title": "The Fundamentals - HTML + CSS",
+      "number": 158,
+      "url": "https://traffic.libsyn.com/syntax/Syntax158.mp3"
+    }
+  },
+  {
+    "id": "3baa2e10-bb86-5786-9b40-69991bf96c17",
+    "fields": {
+      "slug": "episodes/hasty-treat-what-is-a-headless-cms"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - What is a Headless CMS?",
+      "number": 157,
+      "url": "https://traffic.libsyn.com/syntax/Syntax157.mp3"
+    }
+  },
+  {
+    "id": "50411b40-3d1a-503d-beaa-d4b2d5f124b3",
+    "fields": {
+      "slug": "episodes/potluck-career-switch-at-33-cover-letters-kids-learning-quickly-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Career Switch at 33 × Cover Letters × Kids × Learning Quickly × More!",
+      "number": 156,
+      "url": "https://traffic.libsyn.com/syntax/Syntax156.mp3"
+    }
+  },
+  {
+    "id": "cb08b947-cf41-57bf-b76e-2e62812c6c05",
+    "fields": {
+      "slug": "episodes/hasty-treat-making-yourself-uncomfortable-to-grow"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Making Yourself Uncomfortable To Grow",
+      "number": 155,
+      "url": "https://traffic.libsyn.com/syntax/Syntax155.mp3"
+    }
+  },
+  {
+    "id": "f5b4dbbe-78c5-5b88-a589-c55f5168e522",
+    "fields": {
+      "slug": "episodes/sv-gs-with-sara-soueidan"
+    },
+    "frontmatter": {
+      "title": "SVGs with Sara Soueidan",
+      "number": 154,
+      "url": "https://traffic.libsyn.com/syntax/Syntax154.mp3"
+    }
+  },
+  {
+    "id": "4d34f37f-98fc-5118-8373-f4cba5c14f90",
+    "fields": {
+      "slug": "episodes/hasty-treat-new-intl-methods-are-straight-fire"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - New Intl Methods Are Straight Fire",
+      "number": 153,
+      "url": "https://traffic.libsyn.com/syntax/Syntax153.mp3"
+    }
+  },
+  {
+    "id": "9430f25f-12eb-5a62-b4cb-ffd86da7efe2",
+    "fields": {
+      "slug": "episodes/debugging-tools-tips"
+    },
+    "frontmatter": {
+      "title": "Debugging Tools + Tips",
+      "number": 152,
+      "url": "https://traffic.libsyn.com/syntax/Syntax152.mp3"
+    }
+  },
+  {
+    "id": "4e79b06a-2c0b-5d78-b4bc-2b65af414d31",
+    "fields": {
+      "slug": "episodes/hasty-treat-std-lib-in-java-script"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Std Lib in JavaScript",
+      "number": 151,
+      "url": "https://traffic.libsyn.com/syntax/Syntax151.mp3"
+    }
+  },
+  {
+    "id": "980a8b30-0859-5118-8ed9-fef52b5aa080",
+    "fields": {
+      "slug": "episodes/gatsby-themes"
+    },
+    "frontmatter": {
+      "title": "Gatsby Themes",
+      "number": 150,
+      "url": "https://traffic.libsyn.com/syntax/Syntax150.mp3"
+    }
+  },
+  {
+    "id": "c4bd1afa-a0eb-5bcb-9cd0-2ce1f57b8de0",
+    "fields": {
+      "slug": "episodes/hasty-treat-workshops"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Workshops",
+      "number": 149,
+      "url": "https://traffic.libsyn.com/syntax/Syntax149.mp3"
+    }
+  },
+  {
+    "id": "23947ceb-e019-59e4-8acf-1d2d9189cfa1",
+    "fields": {
+      "slug": "episodes/potluck-css-angular-dev-job-preparation-svelte-file-organization-gear-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - CSS × Angular × Dev job preparation × Svelte × File organization × Gear × More!",
+      "number": 148,
+      "url": "https://traffic.libsyn.com/syntax/Syntax148.mp3"
+    }
+  },
+  {
+    "id": "f8db553f-633b-575f-9468-e7da5d52a8ac",
+    "fields": {
+      "slug": "episodes/hasty-treat-knowing-your-weaknesses"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Knowing Your Weaknesses",
+      "number": 147,
+      "url": "https://traffic.libsyn.com/syntax/Syntax147.mp3"
+    }
+  },
+  {
+    "id": "c781bcfb-7a76-59a7-877a-384d8a45052c",
+    "fields": {
+      "slug": "episodes/css-the-cool-parts"
+    },
+    "frontmatter": {
+      "title": "CSS the 😎😎😎 Cool Parts",
+      "number": 146,
+      "url": "https://traffic.libsyn.com/syntax/Syntax146.mp3"
+    }
+  },
+  {
+    "id": "093d3a61-d661-50cb-8847-a60436c601ae",
+    "fields": {
+      "slug": "episodes/hasty-treat-ama-our-wives-careers-outside-tech-and-favorites"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - AMA - Our Wives, Careers Outside Tech, and Favorites",
+      "number": 145,
+      "url": "https://traffic.libsyn.com/syntax/Syntax145.mp3"
+    }
+  },
+  {
+    "id": "716b3a13-caaf-5e93-9f58-23f3ad0db0b6",
+    "fields": {
+      "slug": "episodes/side-hustles-with-courtland-allen-from-indie-hackers"
+    },
+    "frontmatter": {
+      "title": "Side Hustles with Courtland Allen from Indie Hackers",
+      "number": 144,
+      "url": "https://traffic.libsyn.com/syntax/Syntax144.mp3"
+    }
+  },
+  {
+    "id": "4adac44d-4ff5-5975-84f9-e26993aac967",
+    "fields": {
+      "slug": "episodes/hasty-treat-the-shadow-dom"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - The SHADOW DOM",
+      "number": 143,
+      "url": "https://traffic.libsyn.com/syntax/Syntax143.mp3"
+    }
+  },
+  {
+    "id": "03cbb71d-65b5-517b-ac0b-dc4aef31fdd1",
+    "fields": {
+      "slug": "episodes/travis-neilson-on-skills-gap-design-focus-and-working-at-google"
+    },
+    "frontmatter": {
+      "title": "Travis Neilson on Skills Gap, Design, Focus and Working at Google",
+      "number": 142,
+      "url": "https://traffic.libsyn.com/syntax/Syntax142.mp3"
+    }
+  },
+  {
+    "id": "c418a26f-78ec-5596-9572-ce53a833d507",
+    "fields": {
+      "slug": "episodes/hasty-treat-async-await-error-handling-strategies"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Async + Await Error Handling Strategies",
+      "number": 141,
+      "url": "https://traffic.libsyn.com/syntax/Syntax141.mp3"
+    }
+  },
+  {
+    "id": "868b9b6a-46e2-5f96-ae1f-7a16c387e484",
+    "fields": {
+      "slug": "episodes/potluck-media-queries-npm-vulnerabilities-fullstack-js-vs-ja-mstack-web-vr-ar-switching-jobs-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Media Queries × NPM Vulnerabilities × Fullstack JS vs JAMstack × Web VR/AR × Switching Jobs × More!",
+      "number": 140,
+      "url": "https://traffic.libsyn.com/syntax/Syntax140.mp3"
+    }
+  },
+  {
+    "id": "bd2b1a19-ca70-5e03-8156-60b97163b626",
+    "fields": {
+      "slug": "episodes/hasty-treat-ama-money-x-investments-x-online-presence-x-more"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - AMA - Money x Investments x Online Presence x More!",
+      "number": 139,
+      "url": "https://traffic.libsyn.com/syntax/Syntax139.mp3"
+    }
+  },
+  {
+    "id": "565f7f00-c8d6-53be-9718-8635c2300753",
+    "fields": {
+      "slug": "episodes/what-s-new-in-web-development"
+    },
+    "frontmatter": {
+      "title": "What's New in Web Development",
+      "number": 138,
+      "url": "https://traffic.libsyn.com/syntax/Syntax138.mp3"
+    }
+  },
+  {
+    "id": "0ad9a676-0309-57ff-bcc0-55f82c537abb",
+    "fields": {
+      "slug": "episodes/hasty-treat-css-frameworks"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - CSS Frameworks",
+      "number": 137,
+      "url": "https://traffic.libsyn.com/syntax/Syntax137.mp3"
+    }
+  },
+  {
+    "id": "66626e30-cbde-59c1-b476-cd8a07fca955",
+    "fields": {
+      "slug": "episodes/9-ways-to-stay-sane-while-working-remotely"
+    },
+    "frontmatter": {
+      "title": "9 Ways to Stay Sane While Working Remotely",
+      "number": 136,
+      "url": "https://traffic.libsyn.com/syntax/Syntax136.mp3"
+    }
+  },
+  {
+    "id": "eb9afc43-0d14-5661-bf58-e9b916f97563",
+    "fields": {
+      "slug": "episodes/hasty-treat-cranky-developers"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Cranky Developers",
+      "number": 135,
+      "url": "https://traffic.libsyn.com/syntax/Syntax135.mp3"
+    }
+  },
+  {
+    "id": "b10d9b52-3525-5cb2-85cb-2b1a94fde0bb",
+    "fields": {
+      "slug": "episodes/syntax-live-react-edition"
+    },
+    "frontmatter": {
+      "title": "Syntax Live React Edition",
+      "number": 134,
+      "url": "https://traffic.libsyn.com/syntax/Syntax134.mp3"
+    }
+  },
+  {
+    "id": "0d545239-77db-5e92-8608-e9d0b9b54aa5",
+    "fields": {
+      "slug": "episodes/hasty-treat-tips-for-a-good-portfolio"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Tips For A Good Portfolio",
+      "number": 133,
+      "url": "https://traffic.libsyn.com/syntax/Syntax133.mp3"
+    }
+  },
+  {
+    "id": "d9ed91aa-4375-513f-a139-d163ed952a21",
+    "fields": {
+      "slug": "episodes/potluck-interview-qs-headless-cms-react-hooks-resume-design-redux-vs-context-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Interview Qs × Headless CMS × React Hooks × Resume Design × Redux vs Context × More!",
+      "number": 132,
+      "url": "https://traffic.libsyn.com/syntax/Syntax132.mp3"
+    }
+  },
+  {
+    "id": "84406af5-4321-52b0-8c1a-85d82ca5edd0",
+    "fields": {
+      "slug": "episodes/hasty-treat-bike-shedding"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Bike Shedding",
+      "number": 131,
+      "url": "https://traffic.libsyn.com/syntax/Syntax131.mp3"
+    }
+  },
+  {
+    "id": "5c0edc2d-0770-5885-b73e-e62fccef0816",
+    "fields": {
+      "slug": "episodes/the-vue-js-show-scott-teaches-wes"
+    },
+    "frontmatter": {
+      "title": "The VueJS Show (Scott teaches Wes)",
+      "number": 130,
+      "url": "https://traffic.libsyn.com/syntax/Syntax130.mp3"
+    }
+  },
+  {
+    "id": "bfccf97f-2688-5a63-9c68-698d73af4935",
+    "fields": {
+      "slug": "episodes/hasty-treat-why-use-a-frontend-framework-at-all"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Why Use a Frontend Framework at All?",
+      "number": 129,
+      "url": "https://traffic.libsyn.com/syntax/Syntax129.mp3"
+    }
+  },
+  {
+    "id": "37801238-05e6-5838-86b7-eda1133491b5",
+    "fields": {
+      "slug": "episodes/how-to-find-freelance-clients"
+    },
+    "frontmatter": {
+      "title": "How To Find Freelance Clients",
+      "number": 128,
+      "url": "https://traffic.libsyn.com/syntax/Syntax128.mp3"
+    }
+  },
+  {
+    "id": "9097f5af-ba82-58fb-b232-0d9e3424aa94",
+    "fields": {
+      "slug": "episodes/hasty-treat-react-suspense"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - React Suspense",
+      "number": 127,
+      "url": "https://traffic.libsyn.com/syntax/Syntax127.mp3"
+    }
+  },
+  {
+    "id": "e53fd114-78e4-5876-bf0d-d03eacf8ade6",
+    "fields": {
+      "slug": "episodes/bootcamps-vs-school-vs-self-learning"
+    },
+    "frontmatter": {
+      "title": "Bootcamps vs School vs Self-learning",
+      "number": 126,
+      "url": "https://traffic.libsyn.com/syntax/Syntax126.mp3"
+    }
+  },
+  {
+    "id": "1229132a-f8e4-5fcd-bada-39862a3bfc96",
+    "fields": {
+      "slug": "episodes/hasty-treat-communication-skillz"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Communication Skillz",
+      "number": 125,
+      "url": "https://traffic.libsyn.com/syntax/Syntax125.mp3"
+    }
+  },
+  {
+    "id": "d5b8bebd-d367-5dce-9127-c4b3f9baa03b",
+    "fields": {
+      "slug": "episodes/potluck-are-classes-dead-tutorials-vs-real-life-cra-vs-next-scraping-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Are classes dead? × Tutorials vs Real Life × CRA vs Next × Scraping × More",
+      "number": 124,
+      "url": "https://traffic.libsyn.com/syntax/Syntax124.mp3"
+    }
+  },
+  {
+    "id": "bcfe79e6-57a3-5669-ac93-8b40f367f472",
+    "fields": {
+      "slug": "episodes/hasty-treat-authentication-local-storage-vs-cookies-vs-sessions-vs-tokens"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Authentication - LocalStorage vs Cookies vs Sessions vs Tokens",
+      "number": 123,
+      "url": "https://traffic.libsyn.com/syntax/Syntax123.mp3"
+    }
+  },
+  {
+    "id": "6e8760ad-04f2-53fa-b8a0-45b3e3dcae44",
+    "fields": {
+      "slug": "episodes/how-we-manage-our-lives-notion-todos-notes-focusing-calendars-goal-tracking-and-more"
+    },
+    "frontmatter": {
+      "title": "How We Manage Our Lives — Notion, Todos, Notes, Focusing, Calendars, Goal tracking, and more!",
+      "number": 122,
+      "url": "https://traffic.libsyn.com/syntax/Syntax122.mp3"
+    }
+  },
+  {
+    "id": "87488435-88ee-597d-925a-b8cb42652132",
+    "fields": {
+      "slug": "episodes/hasty-treat-tips-to-succeed-on-you-tube"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Tips to Succeed on YouTube",
+      "number": 121,
+      "url": "https://traffic.libsyn.com/syntax/Syntax121.mp3"
+    }
+  },
+  {
+    "id": "22784ccb-29d3-5b98-a2dd-f128b9e8e601",
+    "fields": {
+      "slug": "episodes/gatsby-vs-next"
+    },
+    "frontmatter": {
+      "title": "Gatsby vs Next",
+      "number": 120,
+      "url": "https://traffic.libsyn.com/syntax/Syntax120.mp3"
+    }
+  },
+  {
+    "id": "5e9cfb08-3b74-5a18-aa1d-20f17d9ace46",
+    "fields": {
+      "slug": "episodes/hasty-treat-better-living-through-side-projects"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Better Living Through Side Projects",
+      "number": 119,
+      "url": "https://traffic.libsyn.com/syntax/Syntax119.mp3"
+    }
+  },
+  {
+    "id": "09b54f82-d199-5027-a1f3-3cca43008720",
+    "fields": {
+      "slug": "episodes/the-smart-home"
+    },
+    "frontmatter": {
+      "title": "The Smart Home",
+      "number": 118,
+      "url": "https://traffic.libsyn.com/syntax/Syntax118.mp3"
+    }
+  },
+  {
+    "id": "f271cdd4-49b2-5fd6-903c-2ca7135d33ae",
+    "fields": {
+      "slug": "episodes/hasty-treat-how-to-email-busy-people"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - How To Email Busy People",
+      "number": 117,
+      "url": "https://traffic.libsyn.com/syntax/Syntax117.mp3"
+    }
+  },
+  {
+    "id": "cc5cea44-d4ad-589d-b0c1-f82133d376b8",
+    "fields": {
+      "slug": "episodes/potluck-changing-careers-repo-organization-css-grid-certifications-freelancing-spammers-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Changing careers × Repo organization × CSS Grid × Certifications × Freelancing × Spammers × More",
+      "number": 116,
+      "url": "https://traffic.libsyn.com/syntax/Syntax116.mp3"
+    }
+  },
+  {
+    "id": "fa39a791-5745-52d8-9c4a-e3033e1243f2",
+    "fields": {
+      "slug": "episodes/hasty-treat-code-quality-tooling-part-2"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Code Quality Tooling Part 2",
+      "number": 115,
+      "url": "https://traffic.libsyn.com/syntax/Syntax115.mp3"
+    }
+  },
+  {
+    "id": "1798f38e-167f-55f4-980b-f2e3ebbc529d",
+    "fields": {
+      "slug": "episodes/the-freelance-client-lifecycle-part-2"
+    },
+    "frontmatter": {
+      "title": "The Freelance Client Lifecycle - Part 2",
+      "number": 114,
+      "url": "https://traffic.libsyn.com/syntax/Syntax114.mp3"
+    }
+  },
+  {
+    "id": "71130c69-9b41-5136-85a4-7aea2b14a11b",
+    "fields": {
+      "slug": "episodes/hasty-treat-code-quality-tooling"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Code Quality Tooling",
+      "number": 113,
+      "url": "https://traffic.libsyn.com/syntax/Syntax113.mp3"
+    }
+  },
+  {
+    "id": "5a8ab993-ff57-5c70-8bf3-f8dcf6efc03d",
+    "fields": {
+      "slug": "episodes/the-freelance-client-lifecycle-part-1"
+    },
+    "frontmatter": {
+      "title": "The Freelance Client Lifecycle - Part 1",
+      "number": 112,
+      "url": "https://traffic.libsyn.com/syntax/Syntax112.mp3"
+    }
+  },
+  {
+    "id": "e6cfd71d-5a06-58f2-8a9b-fba75e8b3b0a",
+    "fields": {
+      "slug": "episodes/hasty-treat-tidying-up-code"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Tidying Up Code",
+      "number": 111,
+      "url": "https://traffic.libsyn.com/syntax/Syntax111.mp3"
+    }
+  },
+  {
+    "id": "0f61612b-a8e9-5e82-a72a-95410627020b",
+    "fields": {
+      "slug": "episodes/tips-for-work-life-balance"
+    },
+    "frontmatter": {
+      "title": "Tips for Work Life Balance",
+      "number": 110,
+      "url": "https://traffic.libsyn.com/syntax/Syntax110.mp3"
+    }
+  },
+  {
+    "id": "1594a596-f6d4-5894-8144-583675de86bb",
+    "fields": {
+      "slug": "episodes/hasty-treat-css-grid-level-2-aka-subgrid"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - CSS Grid Level 2 aka Subgrid",
+      "number": 109,
+      "url": "https://traffic.libsyn.com/syntax/Syntax109.mp3"
+    }
+  },
+  {
+    "id": "0d8412af-2105-596b-93a2-d8a9060ef746",
+    "fields": {
+      "slug": "episodes/potluck-where-to-start-with-js-freelancing-cron-jobs-split-testing-frameworks-in-2019-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Where to start with JS × Freelancing × Cron jobs × Split testing × Frameworks in 2019 × More",
+      "number": 108,
+      "url": "https://traffic.libsyn.com/syntax/Syntax108.mp3"
+    }
+  },
+  {
+    "id": "2a1cc7dc-ae55-58ab-8802-9406cfc9fe04",
+    "fields": {
+      "slug": "episodes/hasty-treat-css-units"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - CSS Units",
+      "number": 107,
+      "url": "https://traffic.libsyn.com/syntax/Syntax107.mp3"
+    }
+  },
+  {
+    "id": "1b5ba298-120e-563d-b982-1b820f38d1b3",
+    "fields": {
+      "slug": "episodes/a-look-forward-to-2019"
+    },
+    "frontmatter": {
+      "title": "A Look Forward to 2019",
+      "number": 106,
+      "url": "https://traffic.libsyn.com/syntax/Syntax106.mp3"
+    }
+  },
+  {
+    "id": "20ac2596-cf66-5f4f-beb2-c70d4677b9af",
+    "fields": {
+      "slug": "episodes/hasty-treat-css-and-js-pointer-events"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - CSS and JS Pointer Events",
+      "number": 105,
+      "url": "https://traffic.libsyn.com/syntax/Syntax105.mp3"
+    }
+  },
+  {
+    "id": "3adc754a-082c-566c-9754-642af3fbe222",
+    "fields": {
+      "slug": "episodes/css-layout"
+    },
+    "frontmatter": {
+      "title": "CSS Layout",
+      "number": 104,
+      "url": "https://traffic.libsyn.com/syntax/Syntax104.mp3"
+    }
+  },
+  {
+    "id": "d283e6d0-f5c2-5aca-a342-74ba6d86dc32",
+    "fields": {
+      "slug": "episodes/hasty-treat-where-are-they-now-part-2"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Where are they now? Part 2",
+      "number": 103,
+      "url": "https://traffic.libsyn.com/syntax/Syntax103.mp3"
+    }
+  },
+  {
+    "id": "cba39a35-b8e7-550b-8146-512293e78b0a",
+    "fields": {
+      "slug": "episodes/potluck-typescript-e-commerce-platforms-job-hopping-working-for-agencies-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Typescript × E-commerce platforms × Job-hopping × Working for agencies × more",
+      "number": 102,
+      "url": "https://traffic.libsyn.com/syntax/Syntaxt102.mp3"
+    }
+  },
+  {
+    "id": "34a2d20d-9513-5b71-8d68-1a76f19211a4",
+    "fields": {
+      "slug": "episodes/hasty-treat-where-are-they-now-gulp-grunt-bower-backbone-and-compass"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Where are they now?! Gulp, Grunt, Bower, Backbone and Compass",
+      "number": 101,
+      "url": "https://traffic.libsyn.com/syntax/Syntax101.mp3"
+    }
+  },
+  {
+    "id": "90671ff3-4ea7-59f8-8ad4-d6a9e84949a6",
+    "fields": {
+      "slug": "episodes/not-a-clip-show-episode-100"
+    },
+    "frontmatter": {
+      "title": "Not a Clip Show - Episode 100!",
+      "number": 100,
+      "url": "https://traffic.libsyn.com/syntax/Syntax100.mp3"
+    }
+  },
+  {
+    "id": "a974acbe-22d6-52fd-b42a-06393905ee1b",
+    "fields": {
+      "slug": "episodes/hasty-treat-costs-of-running-a-business"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Costs of Running a Business",
+      "number": 99,
+      "url": "https://traffic.libsyn.com/syntax/Syntax099.mp3"
+    }
+  },
+  {
+    "id": "54890f36-95e2-52e8-8b73-8495ecbf1558",
+    "fields": {
+      "slug": "episodes/the-state-of-java-script-2018"
+    },
+    "frontmatter": {
+      "title": "The State of JavaScript 2018",
+      "number": 98,
+      "url": "https://traffic.libsyn.com/syntax/Syntax098.mp3"
+    }
+  },
+  {
+    "id": "1a8c1460-c47e-50cb-b39e-f9a036ec3288",
+    "fields": {
+      "slug": "episodes/hasty-treat-uses-for-css-variables"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Uses for CSS Variables",
+      "number": 97,
+      "url": "https://traffic.libsyn.com/syntax/Syntax097.mp3"
+    }
+  },
+  {
+    "id": "8cff3329-8ae1-577d-acb0-51b607e32e23",
+    "fields": {
+      "slug": "episodes/holiday-gift-guide"
+    },
+    "frontmatter": {
+      "title": "Holiday Gift Guide",
+      "number": 96,
+      "url": "https://traffic.libsyn.com/syntax/Syntax096.mp3"
+    }
+  },
+  {
+    "id": "eade5c5b-eb92-51e6-9051-9033b487554b",
+    "fields": {
+      "slug": "episodes/hasty-treat-should-you-install-a-dependency-or-roll-your-own"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Should you install a dependency or roll your own?",
+      "number": 95,
+      "url": "https://traffic.libsyn.com/syntax/Syntax095.mp3"
+    }
+  },
+  {
+    "id": "9690fb2c-d6fd-5675-90f3-91097faeb9bb",
+    "fields": {
+      "slug": "episodes/potluck-100-hr-redux-replacements-full-stack-designers-jwt-vs-code-tips-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - $100/hr × Redux Replacements × Full Stack Designers × JWT × VS Code Tips × More",
+      "number": 94,
+      "url": "https://traffic.libsyn.com/syntax/Syntax094.mp3"
+    }
+  },
+  {
+    "id": "3b2784ee-1268-58a9-bdc4-a4a6b481b91e",
+    "fields": {
+      "slug": "episodes/hasty-treat-how-to-become-well-liked-at-work"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - How to become well liked at work",
+      "number": 93,
+      "url": "https://traffic.libsyn.com/syntax/Syntax093.mp3"
+    }
+  },
+  {
+    "id": "47ca3852-aa7c-5910-9bc4-3012676c24a8",
+    "fields": {
+      "slug": "episodes/react-hooks"
+    },
+    "frontmatter": {
+      "title": "React Hooks",
+      "number": 92,
+      "url": "https://traffic.libsyn.com/syntax/Syntax092.mp3"
+    }
+  },
+  {
+    "id": "f9b70c2b-e2bb-5e6a-83c7-42d97b749e19",
+    "fields": {
+      "slug": "episodes/hasty-treat-how-to-become-a-sticker-mogul"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - How to become a Sticker Mogul",
+      "number": 91,
+      "url": "https://traffic.libsyn.com/syntax/Syntax091.mp3"
+    }
+  },
+  {
+    "id": "c2cdb787-1aa2-5582-949f-4be4c3b0699a",
+    "fields": {
+      "slug": "episodes/live-at-ja-mstack-conf"
+    },
+    "frontmatter": {
+      "title": "Live at JAMstack_conf",
+      "number": 90,
+      "url": "https://traffic.libsyn.com/syntax/Syntax090.mp3"
+    }
+  },
+  {
+    "id": "e8e496ed-7e16-5ca1-9eea-d0ac6addfab4",
+    "fields": {
+      "slug": "episodes/hasty-treat-stumped-03"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Stumped! 03",
+      "number": 89,
+      "url": "https://traffic.libsyn.com/syntax/Syntax089.mp3"
+    }
+  },
+  {
+    "id": "4792b217-dbb8-5f1a-b17f-5860561e8a2e",
+    "fields": {
+      "slug": "episodes/pre-launch-checklist"
+    },
+    "frontmatter": {
+      "title": "Pre-launch Checklist",
+      "number": 88,
+      "url": "https://traffic.libsyn.com/syntax/Syntax088.mp3"
+    }
+  },
+  {
+    "id": "fdf2a85a-70e9-5eaa-9782-c62c64b45bd7",
+    "fields": {
+      "slug": "episodes/hasty-treat-old-browsers-fallbacks-and-polyfills-part-3"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Old Browsers, Fallbacks and Polyfills - Part 3",
+      "number": 87,
+      "url": "https://traffic.libsyn.com/syntax/Syntax087.mp3"
+    }
+  },
+  {
+    "id": "5b99caa0-f305-5c5a-aafe-b3ae3817dfaf",
+    "fields": {
+      "slug": "episodes/potluck-working-with-designers-is-word-press-crap-when-to-stop-working-more"
+    },
+    "frontmatter": {
+      "title": "Potluck - Working with designers × Is WordPress Crap? × When to stop working × More",
+      "number": 86,
+      "url": "https://traffic.libsyn.com/syntax/Syntax086.mp3"
+    }
+  },
+  {
+    "id": "1c400c03-587e-508b-8ba1-c5458f119b10",
+    "fields": {
+      "slug": "episodes/hasty-treat-old-browsers-fallbacks-and-polyfills-part-2"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Old Browsers, Fallbacks and Polyfills - Part 2",
+      "number": 85,
+      "url": "https://traffic.libsyn.com/syntax/Syntax085.mp3"
+    }
+  },
+  {
+    "id": "d4c729ef-6fa3-52c3-97da-c7e791ec66e4",
+    "fields": {
+      "slug": "episodes/fitness-for-developers"
+    },
+    "frontmatter": {
+      "title": "Fitness for Developers",
+      "number": 84,
+      "url": "https://traffic.libsyn.com/syntax/Syntax084.mp3"
+    }
+  },
+  {
+    "id": "7ac64b48-87b5-5741-92ca-28a9dea92683",
+    "fields": {
+      "slug": "episodes/hasty-treat-old-browsers-fallbacks-and-polyfills-part-1"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Old Browsers, Fallbacks and Polyfills - Part 1",
+      "number": 83,
+      "url": "https://traffic.libsyn.com/syntax/Syntax083.mp3"
+    }
+  },
+  {
+    "id": "c6c82e53-8f86-585b-96db-689cef73eab9",
+    "fields": {
+      "slug": "episodes/top-18-new-things-in-js-part-2"
+    },
+    "frontmatter": {
+      "title": "Top 18 New Things in JS - Part 2",
+      "number": 82,
+      "url": "https://traffic.libsyn.com/syntax/Syntax082.mp3"
+    }
+  },
+  {
+    "id": "7b558daa-67ee-5c08-b2d3-1d5f44fea3ea",
+    "fields": {
+      "slug": "episodes/hasty-treat-hacktoberfest"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Hacktoberfest",
+      "number": 81,
+      "url": "https://traffic.libsyn.com/syntax/Syntax081.mp3"
+    }
+  },
+  {
+    "id": "cb080831-ea89-53e9-8e79-9da29f56a87a",
+    "fields": {
+      "slug": "episodes/top-18-new-things-in-js-part-1"
+    },
+    "frontmatter": {
+      "title": "Top 18 New Things in JS - Part 1",
+      "number": 80,
+      "url": "https://traffic.libsyn.com/syntax/Syntax080.mp3"
+    }
+  },
+  {
+    "id": "17baf226-0835-572e-b6df-0657416373b1",
+    "fields": {
+      "slug": "episodes/hasty-treat-stumped-02"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Stumped! 02",
+      "number": 79,
+      "url": "https://traffic.libsyn.com/syntax/Syntax079.mp3"
+    }
+  },
+  {
+    "id": "148f98ce-5110-5ac6-845e-a6a4315bb12a",
+    "fields": {
+      "slug": "episodes/potluck-js-web-components-security-they-took-our-jobs"
+    },
+    "frontmatter": {
+      "title": "Potluck - JS × Web Components × Security × They took our jobs!",
+      "number": 78,
+      "url": "https://traffic.libsyn.com/syntax/Syntax078.mp3"
+    }
+  },
+  {
+    "id": "f460a134-2247-5e26-98ac-dce42529e52d",
+    "fields": {
+      "slug": "episodes/hasty-treat-positivity-and-web-development"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Positivity and Web Development",
+      "number": 77,
+      "url": "https://traffic.libsyn.com/syntax/Syntax077.mp3"
+    }
+  },
+  {
+    "id": "9aaba796-a87f-5322-aa48-abd24acdfe3c",
+    "fields": {
+      "slug": "episodes/specialization-vs-generalization"
+    },
+    "frontmatter": {
+      "title": "Specialization vs Generalization",
+      "number": 76,
+      "url": "https://traffic.libsyn.com/syntax/Syntax076.mp3"
+    }
+  },
+  {
+    "id": "a7192c8f-1568-5a92-a7fb-87fde0d2f441",
+    "fields": {
+      "slug": "episodes/hasty-treat-feedback-and-criticism"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Feedback and Criticism",
+      "number": 75,
+      "url": "https://traffic.libsyn.com/syntax/Syntax075.mp3"
+    }
+  },
+  {
+    "id": "fb55d3ad-b650-5645-8cbe-afbf521b9f88",
+    "fields": {
+      "slug": "episodes/11-habits-of-highly-effective-developers"
+    },
+    "frontmatter": {
+      "title": "11 Habits of Highly Effective Developers",
+      "number": 74,
+      "url": "https://traffic.libsyn.com/syntax/Syntax074.mp3"
+    }
+  },
+  {
+    "id": "cb3545c5-efac-5966-8b64-d0cb268dec5a",
+    "fields": {
+      "slug": "episodes/hasty-treat-reading-documentation"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Reading Documentation",
+      "number": 73,
+      "url": "https://traffic.libsyn.com/syntax/Syntax073.mp3"
+    }
+  },
+  {
+    "id": "87bd165c-e964-52ca-9530-376d477b5e9d",
+    "fields": {
+      "slug": "episodes/accessibility"
+    },
+    "frontmatter": {
+      "title": "Accessibility",
+      "number": 72,
+      "url": "https://traffic.libsyn.com/syntax/Syntax072.mp3"
+    }
+  },
+  {
+    "id": "9e1c6698-b8bb-53ea-b7e5-133d588e892f",
+    "fields": {
+      "slug": "episodes/hasty-treat-stumped-interview-questions"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Stumped! Interview Questions",
+      "number": 71,
+      "url": "https://traffic.libsyn.com/syntax/Syntax071.mp3"
+    }
+  },
+  {
+    "id": "3b3059af-1d69-5566-a9e7-06458b050267",
+    "fields": {
+      "slug": "episodes/potluck-programming-languages-soft-skills-php-vs-js-breakdancing-x-spice-blends"
+    },
+    "frontmatter": {
+      "title": "Potluck - Programming Languages × Soft Skills × PHP vs JS × Breakdancing x Spice Blends",
+      "number": 70,
+      "url": "https://traffic.libsyn.com/syntax/Syntax070.mp3"
+    }
+  },
+  {
+    "id": "93cc7ea7-6dab-59ca-be07-591d59eb9cc5",
+    "fields": {
+      "slug": "episodes/hasty-treat-framer-x-and-prototyping-tools"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Framer X and Prototyping Tools",
+      "number": 69,
+      "url": "https://traffic.libsyn.com/syntax/Syntax069.mp3"
+    }
+  },
+  {
+    "id": "3b11a638-eb2d-5cc2-9fae-577825b014b9",
+    "fields": {
+      "slug": "episodes/design-tips-for-developers"
+    },
+    "frontmatter": {
+      "title": "Design Tips for Developers",
+      "number": 68,
+      "url": "https://traffic.libsyn.com/syntax/Syntax068.mp3"
+    }
+  },
+  {
+    "id": "dbea1d6e-0243-5cb6-8584-a47dd19ca501",
+    "fields": {
+      "slug": "episodes/hasty-treat-goal-setting"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Goal Setting",
+      "number": 67,
+      "url": "https://traffic.libsyn.com/syntax/Syntax067.mp3"
+    }
+  },
+  {
+    "id": "0973b856-4253-5156-9b95-40e8b59b172c",
+    "fields": {
+      "slug": "episodes/the-react-episode"
+    },
+    "frontmatter": {
+      "title": "The React Episode",
+      "number": 66,
+      "url": "https://traffic.libsyn.com/syntax/Syntax066.mp3"
+    }
+  },
+  {
+    "id": "cf9a2ab2-d796-5e5c-949e-38ce0cb65726",
+    "fields": {
+      "slug": "episodes/hasty-treat-building-curriculum-for-courses"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Building Curriculum for Courses",
+      "number": 65,
+      "url": "https://traffic.libsyn.com/syntax/Syntax065.mp3"
+    }
+  },
+  {
+    "id": "d3850e7c-6808-5218-b094-dcdc7c733d23",
+    "fields": {
+      "slug": "episodes/our-office-setups-gotta-get-the-gear"
+    },
+    "frontmatter": {
+      "title": "Our Office Setups (Gotta Get The Gear)",
+      "number": 64,
+      "url": "https://traffic.libsyn.com/syntax/Syntax064.mp3"
+    }
+  },
+  {
+    "id": "6d4b6dc1-42b1-5553-b07e-186f5a235192",
+    "fields": {
+      "slug": "episodes/hasty-treat-json-jsonp-and-cors"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - JSON, JSONP and CORS",
+      "number": 63,
+      "url": "https://traffic.libsyn.com/syntax/Syntax063.mp3"
+    }
+  },
+  {
+    "id": "3165f514-be4b-55d4-a275-421490360013",
+    "fields": {
+      "slug": "episodes/potluck-editor-fonts-portfolios-meetup-tips-switching-to-windows-freelancing-sources"
+    },
+    "frontmatter": {
+      "title": "Potluck - Editor Fonts × Portfolios × Meetup Tips × Switching to Windows × Freelancing Sources",
+      "number": 62,
+      "url": "https://traffic.libsyn.com/syntax/Syntax062.mp3"
+    }
+  },
+  {
+    "id": "9fd4abcc-720a-5134-80ef-8fcf13dd3225",
+    "fields": {
+      "slug": "episodes/hasty-treat-whats-the-deal-with-npm-yarn-and-lock-files"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Whats the deal with npm, yarn and lock files?!",
+      "number": 61,
+      "url": "https://traffic.libsyn.com/syntax/Syntax061.mp3"
+    }
+  },
+  {
+    "id": "2e3a3b36-1f7e-5a6b-a161-9d7567fb55df",
+    "fields": {
+      "slug": "episodes/the-undocumented-web-scraping-private-ap-is-proxies-and-alternative-solutions"
+    },
+    "frontmatter": {
+      "title": "The Undocumented Web - scraping, private APIs, proxies and “alternative solutions”",
+      "number": 60,
+      "url": "https://traffic.libsyn.com/syntax/Syntax060.mp3"
+    }
+  },
+  {
+    "id": "9f8f0a82-5bee-5c62-b9e1-64551d172458",
+    "fields": {
+      "slug": "episodes/hasty-treat-refactoring"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Refactoring",
+      "number": 59,
+      "url": "https://traffic.libsyn.com/syntax/Syntax059.mp3"
+    }
+  },
+  {
+    "id": "09d2392d-322f-5dd0-8673-ff093d810d93",
+    "fields": {
+      "slug": "episodes/advice-for-beginners-tech-skills-applying-for-jobs-focus-imposter-syndrome-more"
+    },
+    "frontmatter": {
+      "title": "Advice For Beginners - Tech Skills, Applying for Jobs, Focus, Imposter Syndrome + More",
+      "number": 58,
+      "url": "https://traffic.libsyn.com/syntax/Syntax058.mp3"
+    }
+  },
+  {
+    "id": "b23f5919-2399-5196-936a-4c294e06260c",
+    "fields": {
+      "slug": "episodes/hasty-treat-dot-files"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Dot Files",
+      "number": 57,
+      "url": "https://traffic.libsyn.com/syntax/Syntax057.mp3"
+    }
+  },
+  {
+    "id": "e9297c84-5f98-5dff-bb68-f7bcbb29de5a",
+    "fields": {
+      "slug": "episodes/design-systems"
+    },
+    "frontmatter": {
+      "title": "Design Systems",
+      "number": 56,
+      "url": "https://traffic.libsyn.com/syntax/Syntax056.mp3"
+    }
+  },
+  {
+    "id": "4311e7f3-e55e-595c-a235-09a242a5b196",
+    "fields": {
+      "slug": "episodes/hasty-treat-user-role-systems"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - User Role Systems",
+      "number": 55,
+      "url": "https://traffic.libsyn.com/syntax/Syntax055.mp3"
+    }
+  },
+  {
+    "id": "112b3048-36b5-5204-a10e-114d983449ba",
+    "fields": {
+      "slug": "episodes/potluck-ep-remote-work-headless-word-press-good-client-questions-alternate-careers-react-api-credentials"
+    },
+    "frontmatter": {
+      "title": "Potluck EP × Remote Work × Headless WordPress × Good Client Questions × Alternate Careers × React API Credentials",
+      "number": 54,
+      "url": "https://traffic.libsyn.com/syntax/Syntax054.mp3"
+    }
+  },
+  {
+    "id": "71368844-d945-5f8f-bff7-e177d6a159d8",
+    "fields": {
+      "slug": "episodes/hasty-treat-domain-management"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat - Domain Management",
+      "number": 53,
+      "url": "https://traffic.libsyn.com/syntax/Syntax053.mp3"
+    }
+  },
+  {
+    "id": "70395ac9-79a5-553c-a955-2b9a493a0d04",
+    "fields": {
+      "slug": "episodes/marketing-for-developers"
+    },
+    "frontmatter": {
+      "title": "Marketing for Developers",
+      "number": 52,
+      "url": "https://traffic.libsyn.com/syntax/Syntax052.mp3"
+    }
+  },
+  {
+    "id": "ec63535c-7b85-572e-a67c-1e957d52d792",
+    "fields": {
+      "slug": "episodes/our-workflows-design-development-git-and-deployment"
+    },
+    "frontmatter": {
+      "title": "Our Workflows — Design, Development, Git and Deployment",
+      "number": 51,
+      "url": "https://traffic.libsyn.com/syntax/Syntax051.mp3"
+    }
+  },
+  {
+    "id": "d65e88ec-9e3d-50ad-a4aa-905b0e7dcff6",
+    "fields": {
+      "slug": "episodes/progressive-web-apps"
+    },
+    "frontmatter": {
+      "title": "Progressive Web Apps",
+      "number": 50,
+      "url": "https://traffic.libsyn.com/syntax/Syntax050.mp3"
+    }
+  },
+  {
+    "id": "bb229278-d4c6-5948-9d78-e0898242a7f8",
+    "fields": {
+      "slug": "episodes/potluck-ep-ssr-seo-tips-for-students-music-security-graph-ql"
+    },
+    "frontmatter": {
+      "title": "Potluck EP × SSR × SEO × Tips for Students × Music × Security × GraphQL",
+      "number": 49,
+      "url": "https://traffic.libsyn.com/syntax/Syntax049.mp3"
+    }
+  },
+  {
+    "id": "1ea6b8ec-983a-5f65-9eea-cddbe1d5f810",
+    "fields": {
+      "slug": "episodes/vs-code-round-two"
+    },
+    "frontmatter": {
+      "title": "VS Code Round Two",
+      "number": 48,
+      "url": "https://traffic.libsyn.com/syntax/Syntax048.mp3"
+    }
+  },
+  {
+    "id": "e5d73e1e-a511-5a41-be15-a78f06479659",
+    "fields": {
+      "slug": "episodes/how-to-get-better-at-debugging"
+    },
+    "frontmatter": {
+      "title": "How to Get Better at Debugging",
+      "number": 47,
+      "url": "https://traffic.libsyn.com/syntax/Syntax047.mp3"
+    }
+  },
+  {
+    "id": "90bc8087-55f3-5128-8d24-27fff7067e32",
+    "fields": {
+      "slug": "episodes/what-s-new-in-javascript"
+    },
+    "frontmatter": {
+      "title": "What's New in Javascript",
+      "number": 46,
+      "url": "https://traffic.libsyn.com/syntax/Syntax046.mp3"
+    }
+  },
+  {
+    "id": "c222e843-d792-588d-b134-28a303bef2e2",
+    "fields": {
+      "slug": "episodes/potluck-ep-is-redux-dead-learning-quickly-developing-solo-specialist-vs-generalist-funnest-projects-wes-bbq-course"
+    },
+    "frontmatter": {
+      "title": "Potluck EP × Is Redux Dead × Learning Quickly × Developing Solo × Specialist vs Generalist × Funnest Projects × Wes’ BBQ Course",
+      "number": 45,
+      "url": "https://traffic.libsyn.com/syntax/Syntax045.mp3"
+    }
+  },
+  {
+    "id": "088085fc-4523-5b0b-9cbf-3645385e6fa6",
+    "fields": {
+      "slug": "episodes/how-to-learn-new-things-quickly"
+    },
+    "frontmatter": {
+      "title": "How to Learn New Things Quickly",
+      "number": 44,
+      "url": "https://traffic.libsyn.com/syntax/Syntax044.mp3"
+    }
+  },
+  {
+    "id": "84dc6952-1bf4-5cbd-a4d8-a3c496f4e496",
+    "fields": {
+      "slug": "episodes/20-java-script-array-and-object-methods-to-make-you-a-better-developer"
+    },
+    "frontmatter": {
+      "title": "20 JavaScript Array and Object Methods to make you a better developer",
+      "number": 43,
+      "url": "https://traffic.libsyn.com/syntax/Syntax043.mp3"
+    }
+  },
+  {
+    "id": "e0c095ce-6cf5-501f-b916-b05a8d8b8f48",
+    "fields": {
+      "slug": "episodes/potluck-ep-vue-js-headless-wp-typescript-and-flow-productivity-server-side-rendering-yeoman"
+    },
+    "frontmatter": {
+      "title": "Potluck EP × Vue.js × Headless WP × Typescript & Flow × Productivity × Server Side Rendering × Yeoman",
+      "number": 42,
+      "url": "https://traffic.libsyn.com/syntax/Syntax042.mp3"
+    }
+  },
+  {
+    "id": "7c901768-6f61-5083-bcc5-53a29b9df19e",
+    "fields": {
+      "slug": "episodes/preventing-and-dealing-with-burnout-in-web-development"
+    },
+    "frontmatter": {
+      "title": "Preventing and Dealing with Burnout in Web Development",
+      "number": 41,
+      "url": "https://traffic.libsyn.com/syntax/Syntax041.mp3"
+    }
+  },
+  {
+    "id": "06165d3a-527c-5d9d-85af-3e1bc9f2387a",
+    "fields": {
+      "slug": "episodes/the-testing-show"
+    },
+    "frontmatter": {
+      "title": "The Testing Show",
+      "number": 40,
+      "url": "https://traffic.libsyn.com/syntax/Syntax040.mp3"
+    }
+  },
+  {
+    "id": "58f212f1-1cca-545f-bae0-6edd80f7bdc1",
+    "fields": {
+      "slug": "episodes/is-j-query-dead"
+    },
+    "frontmatter": {
+      "title": "Is jQuery Dead?",
+      "number": 39,
+      "url": "https://traffic.libsyn.com/syntax/Syntax039.mp3"
+    }
+  },
+  {
+    "id": "980e2b98-5480-5705-a931-50c60660429e",
+    "fields": {
+      "slug": "episodes/20-easy-win-performance-tips"
+    },
+    "frontmatter": {
+      "title": "20 Easy Win Performance Tips",
+      "number": 38,
+      "url": "https://traffic.libsyn.com/syntax/Syntax038.mp3"
+    }
+  },
+  {
+    "id": "a8b3e6c9-db69-5078-9b8a-08da9571db25",
+    "fields": {
+      "slug": "episodes/recording-screencasts-hardware-software-dos-and-don-ts"
+    },
+    "frontmatter": {
+      "title": "Recording Screencasts - Hardware, Software, Dos and Don'ts",
+      "number": 37,
+      "url": "https://traffic.libsyn.com/syntax/Syntax037.mp3"
+    }
+  },
+  {
+    "id": "a5a1724d-860a-51b0-a7ac-c42c5c7c762a",
+    "fields": {
+      "slug": "episodes/hasty-treat-freelancing-hot-tips"
+    },
+    "frontmatter": {
+      "title": "Hasty Treat — Freelancing Hot Tips 🔥",
+      "number": 36,
+      "url": "https://traffic.libsyn.com/syntax/Syntax036.mp3"
+    }
+  },
+  {
+    "id": "fad1667f-e982-52e1-ad95-20b9d8051320",
+    "fields": {
+      "slug": "episodes/keeping-up-with-the-codeashians-dealing-with-our-fast-paced-industry"
+    },
+    "frontmatter": {
+      "title": "Keeping Up with the Codeashians. Dealing with our fast paced industry.",
+      "number": 35,
+      "url": "https://traffic.libsyn.com/syntax/Syntax035.mp3"
+    }
+  },
+  {
+    "id": "c93512b6-50db-5be9-b0a8-0f3ccd1201cc",
+    "fields": {
+      "slug": "episodes/why-static-site-generators-are-awesome"
+    },
+    "frontmatter": {
+      "title": "Why Static Site Generators are Awesome",
+      "number": 34,
+      "url": "https://traffic.libsyn.com/syntax/Syntax034.mp3"
+    }
+  },
+  {
+    "id": "be8e3252-6793-56d6-82d7-de8817ef011a",
+    "fields": {
+      "slug": "episodes/large-files-cd-ns-image-compression-video-hosting-and-big-zips"
+    },
+    "frontmatter": {
+      "title": "Large Files - CDNs, Image Compression, Video Hosting, and Big Zips",
+      "number": 33,
+      "url": "https://traffic.libsyn.com/syntax/Syntax033.mp3"
+    }
+  },
+  {
+    "id": "1f71ef5c-bfad-5e6b-a237-55813ac17dc1",
+    "fields": {
+      "slug": "episodes/designing-templating-inlining-and-sending-email"
+    },
+    "frontmatter": {
+      "title": "Designing, Templating, Inlining and Sending Email.",
+      "number": 32,
+      "url": "https://traffic.libsyn.com/syntax/Syntax032.mp3"
+    }
+  },
+  {
+    "id": "ba987bef-d5ea-5c2d-9b07-0a827c98796a",
+    "fields": {
+      "slug": "episodes/wes-and-scott-s-lives-breakdancing-bbq-wives-work-life-balance-problem-solving-you-tube-subscriptions"
+    },
+    "frontmatter": {
+      "title": "Wes and Scott's Lives - Breakdancing, BBQ, Wives, Work/Life Balance, Problem Solving, YouTube Subscriptions",
+      "number": 31,
+      "url": "https://traffic.libsyn.com/syntax/Syntax031.mp3"
+    }
+  },
+  {
+    "id": "4f6d9bc2-30bc-5090-9ad0-637905fe5acf",
+    "fields": {
+      "slug": "episodes/snack-pack-css-frameworks-react-hoc-render-props-coding-designers-early-career-advice-and-a-sound-board"
+    },
+    "frontmatter": {
+      "title": "Snack Pack — CSS Frameworks, React HOC, Render Props, Coding Designers, Early Career Advice and a sound board!",
+      "number": 30,
+      "url": "https://traffic.libsyn.com/syntax/Syntax030.mp3"
+    }
+  },
+  {
+    "id": "8508cf4a-2412-5e98-9cbb-ce6b8d09d07b",
+    "fields": {
+      "slug": "episodes/hosting-and-servers-heroku-now-galaxy-digital-ocean-linode-docker-netlify-and-more"
+    },
+    "frontmatter": {
+      "title": "Hosting & Servers — Heroku, Now, Galaxy, Digital Ocean, Linode, Docker, Netlify and more!",
+      "number": 29,
+      "url": "https://traffic.libsyn.com/syntax/Syntax029.mp3"
+    }
+  },
+  {
+    "id": "3bee3248-260c-5de7-973f-01d32f4573cc",
+    "fields": {
+      "slug": "episodes/async-await"
+    },
+    "frontmatter": {
+      "title": "Async + Await",
+      "number": 28,
+      "url": "https://traffic.libsyn.com/syntax/Syntax028.mp3"
+    }
+  },
+  {
+    "id": "7fedfa9a-0abd-5731-9850-a33b39afdce7",
+    "fields": {
+      "slug": "episodes/graph-ql-here-is-what-you-need-to-know"
+    },
+    "frontmatter": {
+      "title": "GraphQL? Here is what you need to know!",
+      "number": 27,
+      "url": "https://traffic.libsyn.com/syntax/Syntax027.mp3"
+    }
+  },
+  {
+    "id": "108fba9c-0da5-5e96-a34c-c2ddf6e45458",
+    "fields": {
+      "slug": "episodes/all-about-redux-and-and-cookies-vs-jwt"
+    },
+    "frontmatter": {
+      "title": "All About Redux && Cookies vs JWT",
+      "number": 26,
+      "url": "https://traffic.libsyn.com/syntax/Syntax026.mp3"
+    }
+  },
+  {
+    "id": "24643551-f347-512f-8946-ee1abf9ce86b",
+    "fields": {
+      "slug": "episodes/dealing-with-email-overload-and-and-prettier-setups"
+    },
+    "frontmatter": {
+      "title": "Dealing With Email Overload && Prettier Setups",
+      "number": 25,
+      "url": "https://traffic.libsyn.com/syntax/Syntax025.mp3"
+    }
+  },
+  {
+    "id": "35b0560b-cd28-560b-8a0d-9aaf4f970d30",
+    "fields": {
+      "slug": "episodes/all-about-css-bem"
+    },
+    "frontmatter": {
+      "title": "All About CSS BEM!",
+      "number": 24,
+      "url": "https://traffic.libsyn.com/syntax/Syntax024.mp3"
+    }
+  },
+  {
+    "id": "a676a92f-768e-510c-a1c3-b0d74dd72e16",
+    "fields": {
+      "slug": "episodes/web-development-in-2017-and-and-a-look-ahead-at-2018"
+    },
+    "frontmatter": {
+      "title": "Web Development in 2017 && a look ahead at 2018 🍾🍷",
+      "number": 23,
+      "url": "https://traffic.libsyn.com/syntax/Syntax023.mp3"
+    }
+  },
+  {
+    "id": "e3dd2677-e29e-5aaa-b84e-3598a0a1ef60",
+    "fields": {
+      "slug": "episodes/failure"
+    },
+    "frontmatter": {
+      "title": "Failure",
+      "number": 22,
+      "url": "https://traffic.libsyn.com/syntax/Syntax022.mp3"
+    }
+  },
+  {
+    "id": "cdbd21ca-899c-5c10-be6d-d60b3b8d4ea7",
+    "fields": {
+      "slug": "episodes/what-s-new-in-css-variables-scoping-new-selectors-and-color-functions"
+    },
+    "frontmatter": {
+      "title": "What's New in CSS? Variables, Scoping, New Selectors and Color Functions",
+      "number": 21,
+      "url": "https://traffic.libsyn.com/syntax/Syntax021.mp3"
+    }
+  },
+  {
+    "id": "0755c95b-e494-5391-80c3-aca01c862c55",
+    "fields": {
+      "slug": "episodes/fitness-nutrition-and-losing-weight"
+    },
+    "frontmatter": {
+      "title": "Fitness, Nutrition, and Losing Weight",
+      "number": 20,
+      "url": "https://traffic.libsyn.com/syntax/Syntax020.mp3"
+    }
+  },
+  {
+    "id": "75814845-1a61-58c6-915a-7d65b827cdb6",
+    "fields": {
+      "slug": "episodes/how-to-get-into-speaking-at-conferences"
+    },
+    "frontmatter": {
+      "title": "How to get into Speaking At Conferences",
+      "number": 19,
+      "url": "https://traffic.libsyn.com/syntax/Syntax019.mp3"
+    }
+  },
+  {
+    "id": "5221acf2-9145-5ca1-ae4b-3ef10f95f769",
+    "fields": {
+      "slug": "episodes/all-about-css-grid"
+    },
+    "frontmatter": {
+      "title": "All About CSS Grid",
+      "number": 18,
+      "url": "https://traffic.libsyn.com/syntax/Syntax018.mp3"
+    }
+  },
+  {
+    "id": "09fe064f-94c8-5a94-8210-046d1d11df0e",
+    "fields": {
+      "slug": "episodes/22-buzz-words-explained-mutations-pure-functions-serverless-hoisting-mvc-more"
+    },
+    "frontmatter": {
+      "title": "22 Buzz Words Explained — Mutations, Pure Functions , Serverless, Hoisting, MVC + More",
+      "number": 17,
+      "url": "https://traffic.libsyn.com/syntax/Syntax017.mp3"
+    }
+  },
+  {
+    "id": "4d4ca592-7d92-573f-b033-f11ab4a70ae8",
+    "fields": {
+      "slug": "episodes/tasty-treats-rems-vs-ems-remote-work-making-money-getting-good-at-design-more"
+    },
+    "frontmatter": {
+      "title": "Tasty Treats — Rems VS Ems, Remote Work, Making Money, Getting good at Design + more! 🍬",
+      "number": 16,
+      "url": "https://traffic.libsyn.com/syntax/Syntax016.mp3"
+    }
+  },
+  {
+    "id": "7aa7e859-ef4b-5bf6-80ab-f17d45faf34a",
+    "fields": {
+      "slug": "episodes/advice-for-new-developers-imposter-syndrome-and-interviewing-at-google"
+    },
+    "frontmatter": {
+      "title": "Advice for New Developers, Imposter Syndrome and Interviewing at Google",
+      "number": 15,
+      "url": "https://traffic.libsyn.com/syntax/Syntax015.mp3"
+    }
+  },
+  {
+    "id": "7eb1a514-dd77-579f-8ff2-3f9a275ef133",
+    "fields": {
+      "slug": "episodes/our-stacks-explained"
+    },
+    "frontmatter": {
+      "title": "Our Stacks Explained",
+      "number": 14,
+      "url": "https://traffic.libsyn.com/syntax/Syntax014.mp3"
+    }
+  },
+  {
+    "id": "3dc7c478-de9e-5318-9d9e-0cd76be02798",
+    "fields": {
+      "slug": "episodes/the-command-line-for-web-developers"
+    },
+    "frontmatter": {
+      "title": "The Command Line for Web Developers",
+      "number": 13,
+      "url": "https://traffic.libsyn.com/syntax/Syntax013.mp3"
+    }
+  },
+  {
+    "id": "67ac3207-3d77-5292-b607-da4a61e0142b",
+    "fields": {
+      "slug": "episodes/why-is-everyone-switching-to-vs-code"
+    },
+    "frontmatter": {
+      "title": "Why is everyone switching to VS Code?",
+      "number": 12,
+      "url": "https://traffic.libsyn.com/syntax/Syntax012.mp3"
+    }
+  },
+  {
+    "id": "bb4bbb09-f10f-52bb-8412-5288925e1d1f",
+    "fields": {
+      "slug": "episodes/our-favourite-productivity-hacks"
+    },
+    "frontmatter": {
+      "title": "Our favourite Productivity Hacks 🔥",
+      "number": 11,
+      "url": "https://traffic.libsyn.com/syntax/Syntax011.mp3"
+    }
+  },
+  {
+    "id": "eaee1adc-81a2-5101-b5c7-4bee477d8302",
+    "fields": {
+      "slug": "episodes/css-in-js-drama-free"
+    },
+    "frontmatter": {
+      "title": "CSS in JS 💅👩‍🎤💁🚒 (Drama Free!)",
+      "number": 10,
+      "url": "https://traffic.libsyn.com/syntax/Syntax010.mp3"
+    }
+  },
+  {
+    "id": "d8df3981-40f1-5577-ae2c-1a07b9cff1ca",
+    "fields": {
+      "slug": "episodes/dang-that-s-handy-java-script-utility-libraries"
+    },
+    "frontmatter": {
+      "title": "Dang, that's handy! JavaScript Utility Libraries 🛠️",
+      "number": 9,
+      "url": "https://traffic.libsyn.com/syntax/Syntax009.mp3"
+    }
+  },
+  {
+    "id": "d3075021-e7fa-5210-8902-d62883f6af11",
+    "fields": {
+      "slug": "episodes/wes-bos-origin-story"
+    },
+    "frontmatter": {
+      "title": "Wes Bos Origin Story 🎸💼💻🔥🐷",
+      "number": 8,
+      "url": "https://traffic.libsyn.com/syntax/Syntax008.mp3"
+    }
+  },
+  {
+    "id": "b37a97ab-4d0b-5860-b373-5ce99c43b824",
+    "fields": {
+      "slug": "episodes/scott-tolinski-origin-story"
+    },
+    "frontmatter": {
+      "title": "Scott Tolinski Origin Story 🎧 📹 💻 🕺",
+      "number": 7,
+      "url": "https://traffic.libsyn.com/syntax/Syntax007.mp3"
+    }
+  },
+  {
+    "id": "976a1114-fd50-5642-ba9a-c0c2f07632fc",
+    "fields": {
+      "slug": "episodes/accepting-money-on-the-internet"
+    },
+    "frontmatter": {
+      "title": "Accepting Money on the Internet 💰💸",
+      "number": 6,
+      "url": "https://traffic.libsyn.com/syntax/Syntax006.mp3"
+    }
+  },
+  {
+    "id": "047ebbda-b4ac-51e6-a814-ff617dd0c3a2",
+    "fields": {
+      "slug": "episodes/how-to-slam-dunk-freelancing"
+    },
+    "frontmatter": {
+      "title": "How to Slam Dunk Freelancing",
+      "number": 5,
+      "url": "https://traffic.libsyn.com/syntax/Syntax005.mp3"
+    }
+  },
+  {
+    "id": "95324b05-914c-5439-9783-2458e72ef00b",
+    "fields": {
+      "slug": "episodes/java-script-tooling"
+    },
+    "frontmatter": {
+      "title": "JavaScript Tooling",
+      "number": 4,
+      "url": "https://traffic.libsyn.com/syntax/Syntax004.mp3"
+    }
+  },
+  {
+    "id": "29e4a20b-f822-5dc2-8a70-c51cd6a2fe07",
+    "fields": {
+      "slug": "episodes/css-preprocessors-and-structuring-css"
+    },
+    "frontmatter": {
+      "title": "CSS Preprocessors and Structuring CSS",
+      "number": 3,
+      "url": "https://traffic.libsyn.com/syntax/Syntax003.mp3"
+    }
+  },
+  {
+    "id": "012f1b55-6a3f-58a1-bb6f-984045867e5e",
+    "fields": {
+      "slug": "episodes/webcam-and-audio-access-with-web-rtc-and-get-user-media"
+    },
+    "frontmatter": {
+      "title": "Webcam and audio access with WebRTC and getUserMedia()",
+      "number": 2,
+      "url": "https://traffic.libsyn.com/syntax/syntax002.mp3"
+    }
+  },
+  {
+    "id": "ab0ba825-600a-5e74-b23c-940a78c584bb",
+    "fields": {
+      "slug": "episodes/react-tools"
+    },
+    "frontmatter": {
+      "title": "React Tools",
+      "number": 1,
+      "url": "https://traffic.libsyn.com/syntax/syntax001_4.mp3"
+    }
+  },
+  {
+    "id": "6890a939-62d8-5ed9-9b73-d4a779e14a19",
+    "fields": {
+      "slug": "episodes/preview"
+    },
+    "frontmatter": {
+      "title": "Preview",
+      "number": 0,
+      "url": "https://traffic.libsyn.com/syntax/Syntax000.mp3?dest-id=532671"
+    }
+  }
+]
