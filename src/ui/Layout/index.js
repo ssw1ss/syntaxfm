@@ -86,7 +86,7 @@ const Layout = ({ children, location }) => {
             }}
           >
             <SimpleBar style={{ height: "100%" }}>
-              <EpisodeListing />
+              <EpisodeListing location={location} />
             </SimpleBar>
           </Box>
           <AudioPlayer style={audioPlayer} />

@@ -28,13 +28,19 @@ const headingHover = {
   color: "inherit",
 }
 
-const EpisodeListItem = ({ episode, isCurrentEpisode, ...props }) => {
+const EpisodeListItem = ({
+  episode,
+  isCurrentEpisode,
+  isIndexActive,
+  ...props
+}) => {
   return (
     <Flex sx={episodeItem} {...props}>
       <Link
         to={`/${episode.fields.slug}`}
-        activeClassName="active"
         sx={episodeLink}
+        className={isIndexActive ? "active" : ""}
+        activeClassName="active"
       >
         <Text variant="label">Episode #{episode.frontmatter.number}</Text>
         <Heading as="h4" variant="h4" sx={headingHover}>

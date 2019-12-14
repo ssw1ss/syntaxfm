@@ -5,7 +5,7 @@ const EpisodeStateContext = createContext()
 const EpisodeDispatchContext = createContext()
 
 export const EpisodeProvider = ({ children }) => {
-  const [episode, setEpisode] = useState({ ...episodes[0], autoplay: false })
+  const [episode, setEpisode] = useState({ ...episodes[0] })
   return (
     <EpisodeStateContext.Provider value={episode}>
       <EpisodeDispatchContext.Provider value={setEpisode}>
