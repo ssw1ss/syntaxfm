@@ -25,6 +25,7 @@
     "normalize.css": "^8.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
+    "react-div-100vh": "^0.3.8",
     "react-dom": "^16.11.0",
     "react-helmet": "^5.2.1",
     "react-range": "^1.4.3",
