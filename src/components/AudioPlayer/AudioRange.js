@@ -42,7 +42,7 @@ const AudioRange = props => {
         <div
           onMouseDown={props.onMouseDown}
           onTouchStart={props.onTouchStart}
-          style={props.style}
+          style={{ ...props.style, pointerEvents: "auto" }}
           sx={trackContainer}
         >
           <div
