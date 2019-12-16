@@ -120,7 +120,7 @@ const HeaderContent = ({ showMenu, ...props }) => {
 }
 
 const Header = ({ location }) => {
-  const [showMenu, setShowMenu] = useState(true)
+  const [showMenu, setShowMenu] = useState(false)
   return (
     <>
       <HeaderControls
