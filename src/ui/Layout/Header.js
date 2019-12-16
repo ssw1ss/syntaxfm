@@ -89,7 +89,7 @@ const HeaderControls = ({ isHomepage, showMenu, setShowMenu, ...props }) => {
 
 const HeaderContent = ({ showMenu, ...props }) => {
   return (
-    <Box sx={{ ...headerContent, zIndex: showMenu ? 3 : 1 }} {...props}>
+    <Box sx={{ ...headerContent, zIndex: showMenu ? 4 : 1 }} {...props}>
       <Heading as="h1" variant="h3">
         A hasty treats podcast for web developers. Brought to you by:
       </Heading>

@@ -22,8 +22,6 @@ const audioPlayer = {
     "range"`,
   ],
   bg: "background",
-  zIndex: 2,
-  pointerEvents: "none",
 }
 const audioPlayerContent = {
   height: "100%",

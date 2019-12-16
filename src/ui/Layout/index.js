@@ -55,6 +55,7 @@ const episodesContainer = {
 }
 const audioPlayer = {
   gridArea: "audioPlayer",
+  zIndex: 3,
 }
 
 const Layout = ({ children, location }) => {
