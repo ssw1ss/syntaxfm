@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx, Styled } from "theme-ui"
-import React from "react"
+import React, { useState } from "react"
 import { Global } from "@emotion/core"
 import SimpleBar from "simplebar-react"
 
@@ -57,16 +57,20 @@ const audioPlayer = {
 }
 
 const Layout = ({ children, location }) => {
+  const [windowHeight, setWindowHeight] = useState({})
   let pageType
   if (location.pathname.substring(1, 9) === "episodes") pageType = "episode"
   else if (location.pathname === "/") pageType = "home"
   const showEpisodeListing = pageType === "home" ? "block" : "none"
   const showEpisodeContent = pageType === "episode" ? "block" : "none"
+  React.useEffect(() => {
+    setWindowHeight({ height: window.innerHeight })
+  }, [window.innerHeight])
   return (
     <>
       <Global styles={globalCSS} />
       <Styled.root>
-        <Box sx={siteWrapper}>
+        <Box sx={siteWrapper} style={windowHeight}>
           <Header location={location} />
           <Box
             sx={{

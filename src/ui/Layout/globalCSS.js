@@ -5,7 +5,7 @@ const globalCSS = css`
     box-sizing: border-box;
   }
   body {
-    overflow-y: hidden;
+    // overflow-y: hidden;
     margin: 0;
     padding: 0;
     font-size: 15px;
