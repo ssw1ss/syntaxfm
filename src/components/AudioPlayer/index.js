@@ -88,11 +88,8 @@ const AudioPlayer = ({ latestEpisode, ...props }) => {
   const handlePlayState = () => {
     if (!visible) isPlaying ? pause() : play()
   }
-  const stopProp = e => {
-    e.stopPropagation()
-  }
   return (
-    <Box sx={audioPlayer} {...props} onMouseUp={stopProp} onTouchEnd={stopProp}>
+    <Box sx={audioPlayer} {...props}>
       <AudioRange sx={{ gridArea: "range" }} />
       <Box sx={audioPlayerContent}>
         <Flex sx={audioPlayIcon} onClick={handlePlayState}>

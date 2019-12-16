@@ -41,7 +41,9 @@ const AudioRange = props => {
       renderTrack={({ props, children }) => (
         <div
           onMouseDown={props.onMouseDown}
+          onMouseUp={e => e.stopPropagation()}
           onTouchStart={props.onTouchStart}
+          onTouchEnd={e => e.stopPropagation()}
           style={props.style}
           sx={trackContainer}
         >

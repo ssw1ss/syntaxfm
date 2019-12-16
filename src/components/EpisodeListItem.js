@@ -34,11 +34,8 @@ const EpisodeListItem = ({
   isIndexActive,
   ...props
 }) => {
-  const test = () => {
-    console.log("episode list item clicked")
-  }
   return (
-    <Flex sx={episodeItem} {...props} onClick={test}>
+    <Flex sx={episodeItem} {...props}>
       <Link
         to={`/${episode.fields.slug}`}
         sx={episodeLink}
