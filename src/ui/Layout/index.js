@@ -63,12 +63,12 @@ const Layout = ({ children, location }) => {
   else if (location.pathname === "/") pageType = "home"
   const showEpisodeListing = pageType === "home" ? "block" : "none"
   const showEpisodeContent = pageType === "episode" ? "block" : "none"
-  const windowHeight = typeof window !== "undefined" && window.height
+  const windowH = typeof window !== "undefined" && window.height
   React.useEffect(() => {
-    if (windowHeight) {
-      setWindowHeight({ height: windowHeight })
+    if (windowH) {
+      setWindowHeight({ height: windowH })
     }
-  }, [windowHeight])
+  }, [windowH])
   return (
     <>
       <Global styles={globalCSS} />
