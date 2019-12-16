@@ -120,7 +120,7 @@ const HeaderContent = ({ showMenu, ...props }) => {
 }
 
 const Header = ({ location }) => {
-  const [showMenu, setShowMenu] = useState(false)
+  const [showMenu, setShowMenu] = useState(true)
   return (
     <>
       <HeaderControls
@@ -141,8 +141,8 @@ const Header = ({ location }) => {
       <HeaderContent
         sx={{
           gridArea: [
-            "content",
-            "content",
+            "content-start / 1 / audioPlayer-end / 2",
+            "content-start / 1 / audioPlayer-end / 2",
             "sidebar",
             "sidebar",
             "sidebar",

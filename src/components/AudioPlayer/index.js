@@ -21,11 +21,11 @@ const audioPlayer = {
     `"settings"
     "range"`,
   ],
+  bg: "background",
+  zIndex: 2,
 }
 const audioPlayerContent = {
   height: "100%",
-  bg: "background",
-  zIndex: 5,
   gridArea: "settings",
   display: "grid",
   alignItems: "start",
@@ -73,7 +73,7 @@ const audioIcon = {
   textAlign: "center",
 }
 const episodeTitle = {
-  fontSize: [4, 4, 4, 3],
+  fontSize: 4,
   fontWeight: "normal",
   p: ".5rem",
   height: "100%",
@@ -104,6 +104,7 @@ const AudioPlayer = ({ latestEpisode, ...props }) => {
           sx={{
             ...audioPlayerSettings,
             display: [
+              visible ? "block" : "none",
               visible ? "block" : "none",
               visible ? "block" : "none",
               visible ? "block" : "none",

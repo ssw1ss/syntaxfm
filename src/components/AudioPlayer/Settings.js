@@ -26,7 +26,7 @@ const field = {
   px: ["none", "none", "none", "1rem"],
 }
 const label = {
-  fontSize: 4,
+  fontSize: 5,
   color: "gray",
   mr: ".75rem",
   letterSpacing: "1px",
@@ -40,12 +40,12 @@ const Settings = ({ download, notes }) => {
     <Box sx={settingsContainer}>
       <Flex sx={field}>
         <Link to={`/${notes}`} sx={label}>
-          📒 Show notes
+          📒Show notes
         </Link>
       </Flex>
       <Flex sx={field}>
         <ExternalLink href={download} sx={label}>
-          👇 Download
+          👇Download
         </ExternalLink>
       </Flex>
       <Flex sx={field}>
