@@ -17,7 +17,7 @@ const imgsx = {
 
 const BioCard = ({ img, name, twitter, children }) => {
   return (
-    <Box style={{ margin: "2rem 0" }}>
+    <Box style={{ margin: "1.5rem 0" }}>
       <Flex sx={info}>
         {/* <Image src={img} */}
         <Box>
@@ -34,7 +34,7 @@ const BioCard = ({ img, name, twitter, children }) => {
           </ExternalLink>
         </Box>
       </Flex>
-      <Text style={{ paddingTop: ".75rem", textAlign: "left" }}>
+      <Text sx={{ paddingTop: ".5rem", textAlign: "left", fontSize: 4 }}>
         {children}
       </Text>
     </Box>

@@ -38,7 +38,6 @@ const logo = {
 const headerContent = {
   bg: "background",
   p: ["1rem", "1rem", "1rem", "1rem", "2rem"],
-  textAlign: "center",
   borderRight: theme => [
     "none",
     "none",
@@ -95,12 +94,23 @@ const HeaderContent = ({ showMenu, ...props }) => {
         A hasty treats podcast for web developers. Brought to you by:
       </Heading>
       <BioCard twitter="@wesbos" name="Wes Bos">
-        Full Stack JavaScript Developer. Creator of really good web development
-        courses. BBQ enthusiast.
+        Full Stack JavaScript Developer. Creator of really good{" "}
+        <ExternalLink
+          target="_blank"
+          variant="external"
+          href="https://wesbos.com/courses"
+        >
+          web development courses
+        </ExternalLink>
+        . BBQ enthusiast.
       </BioCard>
       <BioCard twitter="@stolinski" name="Scott Tolinski">
         Web Developer, Creator of{" "}
-        <ExternalLink target="_blank" variant="external" href="#">
+        <ExternalLink
+          target="_blank"
+          variant="external"
+          href="https://www.leveluptutorials.com/"
+        >
           Level Up Tuts
         </ExternalLink>
         , Bboy, Robotops Crew and Youtuber
