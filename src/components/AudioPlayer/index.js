@@ -81,26 +81,15 @@ const episodeTitle = {
   alignItems: "center",
 }
 
-const AudioPlayer = ({ latestEpisode, setPointerevents, ...props }) => {
+const AudioPlayer = ({ latestEpisode, ...props }) => {
   const [visible, setVisible] = useState(false)
   const episode = useEpisodeState()
   const { play, pause, isPlaying } = useAudioDispatch()
   const handlePlayState = () => {
     if (!visible) isPlaying ? pause() : play()
   }
-  const test = bool => {
-    console.log("bool is: ", bool)
-    setPointerevents(bool)
-  }
   return (
-    <Box
-      sx={audioPlayer}
-      onMouseDown={() => test(false)}
-      onTouchStart={() => test(false)}
-      onMouseUp={() => test(true)}
-      onTouchEnd={() => test(true)}
-      {...props}
-    >
+    <Box sx={audioPlayer} {...props}>
       <AudioRange sx={{ gridArea: "range" }} />
       <Box sx={audioPlayerContent}>
         <Flex sx={audioPlayIcon} onClick={handlePlayState}>

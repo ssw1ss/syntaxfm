@@ -42,7 +42,7 @@ const EpisodeSingle = ({ data }) => {
     day: "2-digit",
   })
   return (
-    <SimpleBar style={{ height: "100%" }}>
+    <SimpleBar style={{ height: "100%", overflowX: "hidden" }}>
       <Box
         sx={{
           px: ["1rem", "1rem", "2rem", "3rem"],
