@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import React, { useState } from "react"
+import React, { useState, useCallback, useRef } from "react"
 import { Range } from "react-range"
 import { Slider } from "@theme-ui/components"
 
@@ -21,11 +21,10 @@ const thumb = {
 
 const MIN = 0
 const MAX = 100
-
 const AudioRange = props => {
   const state = useAudioState()
-  const { seek } = useAudioDispatch()
   const [value, setValue] = useState(state.time)
+  const { seek } = useAudioDispatch()
   const handleChange = e => {
     let newVal = e.target.value
     console.log(newVal)
@@ -43,8 +42,8 @@ const AudioRange = props => {
       step="0.1"
       min="0"
       max="100"
-      value={`${value}`}
-      onChange={handleChange}
+      defaultValue={`${value}`}
+      onInput={handleChange}
       sx={{ my: 0 }}
       css={{
         background: `linear-gradient(to right, #FFD400 0%, #00FFB2 ${value}%, #959295 ${value}%, #959295 100%)`,
