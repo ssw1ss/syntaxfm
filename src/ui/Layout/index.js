@@ -87,12 +87,9 @@ const Layout = ({ children, location }) => {
               display: [showEpisodeListing, showEpisodeListing, "block"],
             }}
           >
-            {/* <SimpleBar style={{ height: "100%", overflowX: "hidden" }}>
+            <SimpleBar style={{ height: "100%", overflowX: "hidden" }}>
               <EpisodeListing location={location} />
-            </SimpleBar> */}
-            <Box style={{ height: "100%", overflowY: "scroll" }}>
-              <EpisodeListing location={location} />
-            </Box>
+            </SimpleBar>
           </Box>
           <AudioPlayer style={audioPlayer} />
         </Div100vh>
