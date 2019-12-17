@@ -16,8 +16,7 @@ const trackEl = {
 }
 const thumb = {
   borderRadius: 0,
-  width: 0,
-  opacity: 0,
+  opacity: 1,
 }
 
 const MIN = 0
@@ -29,7 +28,7 @@ const AudioRange = props => {
   const [value, setValue] = useState([state.time])
   const handleChange = e => {
     let newVal = e.target.value
-    // setValue isn't "necessary" here because seeking will cause the state to rerender,
+    // setValues isn't "necessary" here because seeking will cause the state to rerender,
     // but it makes the audio range UI less janky when an episode isn't fully loaded
     setValue(newVal)
     const seekTo = ((newVal / 100) * state.duration).toFixed(6)
