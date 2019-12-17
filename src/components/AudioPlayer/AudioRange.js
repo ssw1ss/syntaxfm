@@ -25,7 +25,7 @@ const MAX = 100
 const AudioRange = props => {
   const state = useAudioState()
   const { seek } = useAudioDispatch()
-  const [value, setValue] = useState([state.time])
+  const [value, setValue] = useState(state.time)
   const handleChange = e => {
     let newVal = e.target.value
     // setValues isn't "necessary" here because seeking will cause the state to rerender,
