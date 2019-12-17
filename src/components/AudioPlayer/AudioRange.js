@@ -28,10 +28,11 @@ const AudioRange = props => {
   const [value, setValue] = useState(state.time)
   const handleChange = e => {
     let newVal = e.target.value
+    console.log(newVal)
     // setValues isn't "necessary" here because seeking will cause the state to rerender,
     // but it makes the audio range UI less janky when an episode isn't fully loaded
     setValue(newVal)
-    const seekTo = ((newVal / 100) * state.duration).toFixed(6)
+    const seekTo = Number(((newVal / 100) * state.duration).toFixed(1))
     seek(seekTo)
   }
   React.useEffect(() => {
@@ -39,9 +40,9 @@ const AudioRange = props => {
   }, [state.time, state.duration])
   return (
     <Slider
-      step={0.1}
-      min={MIN}
-      max={MAX}
+      step="0.1"
+      min="0"
+      max="100"
       value={`${value}`}
       onChange={handleChange}
       sx={{ my: 0 }}
