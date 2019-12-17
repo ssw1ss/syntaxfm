@@ -59,6 +59,10 @@ const audioPlayer = {
 }
 
 const Layout = ({ children, location }) => {
+  const [pointerevents, setPointerevents] = useState(false)
+  const pointerEvents = {
+    pointerEvents: pointerevents ? "auto" : "none",
+  }
   let pageType
   if (location.pathname.substring(1, 9) === "episodes") pageType = "episode"
   else if (location.pathname === "/") pageType = "home"
@@ -78,6 +82,7 @@ const Layout = ({ children, location }) => {
               bg: "background",
               display: [showEpisodeContent, showEpisodeContent, "block"],
             }}
+            style={pointerEvents}
           >
             {children}
           </Box>
@@ -86,12 +91,16 @@ const Layout = ({ children, location }) => {
               ...episodesContainer,
               display: [showEpisodeListing, showEpisodeListing, "block"],
             }}
+            style={pointerEvents}
           >
             <SimpleBar style={{ height: "100%" }}>
               <EpisodeListing location={location} />
             </SimpleBar>
           </Box>
-          <AudioPlayer style={audioPlayer} />
+          <AudioPlayer
+            style={audioPlayer}
+            setPointerevents={setPointerevents}
+          />
         </Div100vh>
       </Styled.root>
     </>
