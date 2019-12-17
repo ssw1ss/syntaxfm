@@ -59,7 +59,7 @@ const audioPlayer = {
 }
 
 const Layout = ({ children, location }) => {
-  const [pointerevents, setPointerevents] = useState(false)
+  const [pointerevents, setPointerevents] = useState(true)
   const pointerEvents = {
     pointerEvents: pointerevents ? "auto" : "none",
   }

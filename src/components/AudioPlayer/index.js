@@ -88,13 +88,17 @@ const AudioPlayer = ({ latestEpisode, setPointerevents, ...props }) => {
   const handlePlayState = () => {
     if (!visible) isPlaying ? pause() : play()
   }
+  const test = bool => {
+    console.log("bool is: ", bool)
+    setPointerevents(bool)
+  }
   return (
     <Box
       sx={audioPlayer}
-      onMouseDown={() => setPointerevents(false)}
-      onTouchStart={() => setPointerevents(false)}
-      onMouseUp={() => setPointerevents(true)}
-      onTouchEnd={() => setPointerevents(true)}
+      onMouseDown={() => test(false)}
+      onTouchStart={() => test(false)}
+      onMouseUp={() => test(true)}
+      onTouchEnd={() => test(true)}
       {...props}
     >
       <AudioRange sx={{ gridArea: "range" }} />
