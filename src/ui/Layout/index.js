@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx, Styled } from "theme-ui"
-import React, { useState } from "react"
+import React from "react"
 import { Global } from "@emotion/core"
 import SimpleBar from "simplebar-react"
 import Div100vh from "react-div-100vh"
