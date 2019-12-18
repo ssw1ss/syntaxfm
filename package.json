@@ -8,6 +8,7 @@
     "@emotion/core": "^10.0.22",
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",
+    "@reach/slider": "^0.6.4",
     "@sindresorhus/slugify": "^0.9.1",
     "@theme-ui/components": "^0.2.46",
     "@theme-ui/match-media": "^0.2.46",
