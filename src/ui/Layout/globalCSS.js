@@ -7,6 +7,7 @@ const globalCSS = css`
   body {
     // overflow-y: hidden;
     margin: 0;
+    margin-bottom: 50px;
     padding: 0;
     font-size: 15px;
     @media (min-width: 42rem) {

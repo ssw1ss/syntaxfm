@@ -13,6 +13,7 @@ export const AudioProvider = ({ children }) => {
     autoPlay: episode ? episode.autoplay : false,
     preload: "",
   }
+  console.log("audio provider stuff is changing")
   const [audio, state, controls, ref] = useAudio(<audio {...audioProps} />)
   const dispatch = useMemo(() => {
     return ref.current
