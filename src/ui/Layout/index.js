@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx, Styled } from "theme-ui"
-import React from "react"
+import React, { useState, useCallback } from "react"
 import { Global } from "@emotion/core"
 import SimpleBar from "simplebar-react"
 import Div100vh from "react-div-100vh"
@@ -15,6 +15,9 @@ const siteWrapper = {
   bg: "background",
   maxWidth: "125rem",
   height: "100vh",
+  position: "fixed",
+  top: "0",
+  left: "0",
   marginRight: "auto",
   display: "grid",
   gridTemplate: [
@@ -64,6 +67,10 @@ const Layout = ({ children, location }) => {
   else if (location.pathname === "/") pageType = "home"
   const showEpisodeListing = pageType === "home" ? "block" : "none"
   const showEpisodeContent = pageType === "episode" ? "block" : "none"
+  React.useEffect(() => {
+    window.scroll(0, 20)
+    document.body.style.overflow = "hidden"
+  }, [])
   return (
     <>
       <Global styles={globalCSS} />

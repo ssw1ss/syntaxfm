@@ -9,15 +9,6 @@ import Layout from "./src/ui/Layout"
 import { AudioProvider } from "./src/context/AudioProvider"
 import { EpisodeProvider } from "./src/context/EpisodeProvider"
 
-// export { wrapRootElement } from "./wrapRootElement"
-
-// export const wrapRootElement = ({ element }) => (
-//   <EpisodeProvider>
-//     <AudioProvider>
-//       <Layout>{element}</Layout>
-//     </AudioProvider>
-//   </EpisodeProvider>
-// )
 export const wrapPageElement = ({ element, props: { location } }) => {
   return <Layout location={location}>{element}</Layout>
 }
