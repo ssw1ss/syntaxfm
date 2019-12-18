@@ -33,6 +33,7 @@
     "react-range": "^1.4.3",
     "react-use": "^13.6.3",
     "simplebar-react": "^2.0.10",
+    "smoothscroll-polyfill": "^0.4.4",
     "theme-ui": "^0.2.46",
     "typeface-fira-mono": "^0.0.72",
     "typeface-inter": "^3.10.0",

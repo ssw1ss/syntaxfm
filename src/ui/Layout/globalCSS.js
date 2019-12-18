@@ -5,7 +5,11 @@ const globalCSS = css`
     box-sizing: border-box;
   }
   body {
-    margin: 0 0 50px 0;
+    position: relative;
+    height: calc(100vh + 150px);
+    width: 100%;
+    overflow-y: auto;
+    margin: 0;
     padding: 0;
     font-size: 15px;
     @media (min-width: 42rem) {

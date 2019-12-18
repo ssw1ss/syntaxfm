@@ -1,19 +1,23 @@
 /** @jsx jsx */
 import { jsx, Styled } from "theme-ui"
-import React, { useState, useCallback } from "react"
+import React, { useRef } from "react"
 // import SimpleBar from "simplebar-react"
 // import Div100vh from "react-div-100vh"
 
 const Test = () => {
+  const test = () => {
+    window.scroll({ top: 21, behavior: "smooth" })
+  }
   return (
     <div
       style={{
         height: "100%",
         width: "100%",
-        background: "salmon",
+        background: "blue",
         overflow: "auto",
       }}
     >
+      <h1 onClick={test}>Test</h1>
       {[...Array(250).keys()].map(num => (
         <h1 key={num}>Welcome to codesandbox {num}</h1>
       ))}
