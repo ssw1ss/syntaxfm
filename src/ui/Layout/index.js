@@ -62,11 +62,11 @@ const audioPlayer = {
 }
 
 const Layout = ({ children, location }) => {
-  let pageType
-  if (location.pathname.substring(1, 9) === "episodes") pageType = "episode"
-  else if (location.pathname === "/") pageType = "home"
-  const showEpisodeListing = pageType === "home" ? "block" : "none"
-  const showEpisodeContent = pageType === "episode" ? "block" : "none"
+  let isHomePage = location.pathname === "/"
+  // if (location.pathname.substring(1, 9) === "episodes") pageType = "episode"
+  // else if (location.pathname === "/") pageType = "home"
+  const showEpisodeListing = isHomePage ? "block" : "none"
+  const showEpisodeContent = !isHomePage ? "block" : "none"
   return (
     <>
       <Global styles={globalCSS} />
