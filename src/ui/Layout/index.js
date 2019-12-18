@@ -67,10 +67,6 @@ const Layout = ({ children, location }) => {
   else if (location.pathname === "/") pageType = "home"
   const showEpisodeListing = pageType === "home" ? "block" : "none"
   const showEpisodeContent = pageType === "episode" ? "block" : "none"
-  React.useEffect(() => {
-    window.scroll(0, 20)
-    document.body.style.overflow = "hidden"
-  }, [])
   return (
     <>
       <Global styles={globalCSS} />

@@ -5,8 +5,6 @@ const globalCSS = css`
     box-sizing: border-box;
   }
   body {
-    position: relative;
-    // overflow: hidden;
     margin: 0 0 50px 0;
     padding: 0;
     font-size: 15px;
