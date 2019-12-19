@@ -6,7 +6,7 @@ import React, { useRef } from "react"
 
 const Test = () => {
   const test = () => {
-    window.scroll({ top: 21, behavior: "smooth" })
+    document.documentElement.scrollTo({ top: 21, behavior: "smooth" })
   }
   return (
     <div
