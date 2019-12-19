@@ -6,9 +6,7 @@ const globalCSS = css`
   }
   body {
     position: relative;
-    height: calc(100vh + 150px);
     width: 100%;
-    overflow-y: auto;
     margin: 0;
     padding: 0;
     font-size: 15px;

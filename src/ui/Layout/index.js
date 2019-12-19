@@ -15,9 +15,6 @@ const siteWrapper = {
   bg: "background",
   maxWidth: "125rem",
   height: "100vh",
-  // position: "fixed",
-  // top: "0",
-  // left: "0",
   marginRight: "auto",
   display: "grid",
   gridTemplate: [
