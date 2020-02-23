@@ -30,7 +30,7 @@ const fonts = {
 }
 
 export default {
-  breakpoints: ["30rem", "45rem", "56rem", "70rem", "90rem"],
+  breakpoints: ["480px", "720px", "896px", "1120px", "1440px"],
   colors: {
     ...colors,
     text: colors.lightGray,
@@ -40,6 +40,9 @@ export default {
     gray: colors.gray,
     contrast: colors.white,
     primary: colors.yellow,
+    modes: {
+      light: { background: "#777" },
+    },
   },
   fonts: {
     body: fonts.inter,

@@ -2,12 +2,6 @@
 import { jsx } from "theme-ui"
 import React, { useState } from "react"
 import { Range } from "react-range"
-import {
-  SliderInput,
-  SliderTrack,
-  SliderTrackHighlight,
-  SliderHandle,
-} from "@reach/slider"
 
 import { useAudioState, useAudioDispatch } from "../../context/AudioProvider"
 
@@ -40,51 +34,40 @@ const sliderTrackHighlightSx = {
 const MIN = 0
 const MAX = 100
 
-const AudioRange2 = props => {
-  const state = useAudioState()
-  // const [value, setValue] = useState(state.time)
-  const [value, setValue] = useState(state.time)
-  const { seek } = useAudioDispatch()
-  const handleChange = newVal => {
-    console.log(newVal, typeof newVal)
-    setValue(newVal)
-    const seekTo = ((newVal / 100) * state.duration).toFixed(6)
-    seek(seekTo)
-  }
-  React.useEffect(() => {
-    setValue((state.time / state.duration) * 100)
-  }, [state.time, state.duration])
-  return (
-    <SliderInput
-      step={0.1}
-      min={MIN}
-      max={MAX}
-      value={value}
-      onChange={handleChange}
-      css={sliderSx}
-    >
-      <SliderTrack css={sliderTrackSx}>
-        <SliderTrackHighlight css={sliderTrackHighlightSx} />
-        <SliderHandle />
-      </SliderTrack>
-    </SliderInput>
-  )
+const toFixedNumber = num => {
+  return Number(num.toFixed(6))
 }
 
-const AudioRange = props => {
-  const state = useAudioState()
-  const { seek } = useAudioDispatch()
-  const [values, setValues] = useState([state.time])
+const AudioRange = ({ episodeNumber }) => {
+  const { time, duration } = useAudioState()
+  const { seek, ref } = useAudioDispatch()
+  const defaultTime =
+    time > 0 && duration > 0 ? toFixedNumber((time / duration) * 100) : 0
+  const [values, setValues] = useState([defaultTime])
   const handleChange = values => {
     // setValues isn't "necessary" here because seeking will cause the state to rerender,
     // but it makes the audio range UI less janky when an episode isn't fully loaded
     setValues(values)
-    const seekTo = ((values[0] / 100) * state.duration).toFixed(6)
+    const seekTo = toFixedNumber(values[0] / 100) * duration
     seek(seekTo)
   }
   React.useEffect(() => {
-    setValues([(state.time / state.duration) * 100])
-  }, [state.time, state.duration])
+    setValues([(time / duration) * 100])
+  }, [time, duration])
+  React.useEffect(() => {
+    // Start an interval to save last play time every x seconds
+    const setLastPlayed = () => {
+      localStorage.setItem(
+        `episode-${episodeNumber}`,
+        JSON.stringify({ lastTime: ref.current.currentTime })
+      )
+    }
+    const setLastPlayedInterval = setInterval(setLastPlayed, 1000)
+    return () => clearInterval(setLastPlayedInterval)
+  }, [episodeNumber, duration])
+  // React.useEffect(() => {
+
+  // }, [duration])
   return (
     <Range
       step={0.1}

@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { jsx, Styled } from "theme-ui"
+import { jsx, Styled, useThemeUI } from "theme-ui"
 import React, { useState, useCallback } from "react"
 import { Global } from "@emotion/core"
 import SimpleBar from "simplebar-react"
@@ -10,11 +10,13 @@ import globalCSS from "./globalCSS"
 import Header from "./Header"
 import AudioPlayer from "../../components/AudioPlayer"
 import EpisodeListing from "../../components/EpisodeListing"
+import Helmet from "react-helmet"
 
 const siteWrapper = {
   bg: "background",
   maxWidth: "125rem",
   height: "100vh",
+  width: "100vw",
   marginRight: "auto",
   display: "grid",
   gridTemplate: [
@@ -64,8 +66,16 @@ const Layout = ({ children, location }) => {
   // else if (location.pathname === "/") pageType = "home"
   const showEpisodeListing = isHomePage ? "block" : "none"
   const showEpisodeContent = !isHomePage ? "block" : "none"
+  const { colorMode, theme } = useThemeUI()
+  const colorsKey =
+    colorMode === "default" ? theme.colors : theme.colors.modes[colorMode]
+  const background = `background: ${colorsKey.background};`
   return (
     <>
+      <Helmet>
+        <meta http-equiv="ScreenOrientation" content="autoRotate:disabled" />
+        <body style={background}></body>
+      </Helmet>
       <Global styles={globalCSS} />
       <Styled.root>
         <Div100vh sx={siteWrapper}>

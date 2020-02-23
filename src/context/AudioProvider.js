@@ -26,15 +26,17 @@ export const AudioProvider = ({ children }) => {
             )),
           isPlaying: !state.paused,
           setVolume: controls.volume,
+          ref,
           speed,
           setSpeed,
         }
       : {
           play: controls.play,
           pause: controls.pause,
-          seek: controls.seek,
+          seek: false,
           setVolume: controls.volume,
           isPlaying: !state.paused,
+          ref,
           speed,
           setSpeed,
         }
@@ -42,6 +44,23 @@ export const AudioProvider = ({ children }) => {
   React.useEffect(() => {
     if (ref.current !== null) ref.current.playbackRate = speed
   }, [ref.current, speed, episode])
+  React.useEffect(() => {
+    const test = e => {
+      const hasPlayed = localStorage.getItem(
+        `episode-${episode.frontmatter.number}`
+      )
+      if (hasPlayed) {
+        const lastTime = JSON.parse(hasPlayed).lastTime
+        ref.current.currentTime = lastTime
+      }
+    }
+    if (ref.current !== null)
+      ref.current.addEventListener("durationchange", test)
+    return () => {
+      if (ref.current !== null)
+        ref.current.removeEventListener("durationchange", test)
+    }
+  }, [episode.frontmatter.number])
   return (
     <>
       {audio}

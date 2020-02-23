@@ -13,7 +13,8 @@ import { useSetEpisodeOnClick } from "../../components/PlayButton"
 const episodeButton = {
   cursor: "pointer",
   mr: ["1.25rem", "1.25rem", "1.25rem", "1.25rem", "2rem"],
-  pb: ".25rem",
+  mt: ".5rem",
+  pb: ".175rem",
   fontSize: [4, 4, 4, 4, 3],
   borderBottom: "1px solid",
   borderColor: "gray",
@@ -45,7 +46,7 @@ const EpisodeSingle = ({ data }) => {
     <SimpleBar style={{ height: "100%", overflowX: "hidden" }}>
       <Box
         sx={{
-          px: ["1rem", "1rem", "2rem", "3rem"],
+          px: [3, 4, 3, 4],
           py: ["1rem", "1rem", "2rem"],
         }}
       >
@@ -59,7 +60,7 @@ const EpisodeSingle = ({ data }) => {
           style={{
             marginBottom: "1rem",
             flexWrap: "wrap",
-            padding: "1.75rem 0 .75rem 0",
+            padding: "1rem 0 .75rem 0",
           }}
         >
           <Text sx={episodeButton} {...onClick}>

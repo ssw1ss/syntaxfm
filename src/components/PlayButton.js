@@ -1,40 +1,47 @@
 import React, { useState } from "react"
 
-import { Text } from "ui"
+import { Box, Image } from "ui"
 import { useAudioDispatch } from "../context/AudioProvider"
 import { useEpisodeDispatch } from "../context/EpisodeProvider"
 
+import PlayIcon from "../images/play.svg"
+import PauseIcon from "../images/pause.svg"
+
 const playButton = {
-  fontSize: 5,
-  lineHeight: "0",
+  fill: "text",
   cursor: "pointer",
   width: "1.5rem",
   height: "1.5rem",
+  p: ".325rem",
   borderRadius: "1.5rem",
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
-  transition: "transform .05s",
-  color: "gray",
+  transition: "fill .1s",
+  border: "1px solid transparent",
   "&:hover": {
-    color: "text",
+    fill: "contrast",
   },
 }
 const activePlayButton = {
   ...playButton,
-  border: "1px solid #fff",
-  color: "text",
+  borderColor: "text",
+  fill: "contrast",
 }
 
-export const PlayButton = ({ episode, ...props }) => {
+export const PlayButton = () => {
   const { play, pause, isPlaying } = useAudioDispatch()
   const handleClick = () => {
     isPlaying ? pause() : play()
   }
   return (
-    <Text onClick={handleClick} sx={activePlayButton} {...props}>
-      {isPlaying ? `❚❚` : `▶`}
-    </Text>
+    <Box onClick={handleClick} sx={activePlayButton}>
+      {isPlaying ? (
+        <PauseIcon sx={{ width: "100%" }} />
+      ) : (
+        <PlayIcon sx={{ width: "100%" }} />
+      )}
+    </Box>
   )
 }
 
@@ -46,8 +53,8 @@ export const useSetEpisodeOnClick = episode => {
 export const SetEpisodeButton = ({ episode }) => {
   const onClick = useSetEpisodeOnClick(episode)
   return (
-    <Text sx={playButton} {...onClick}>
-      ▶
-    </Text>
+    <Box sx={playButton} {...onClick}>
+      <PlayIcon sx={{ width: "100%" }} />
+    </Box>
   )
 }

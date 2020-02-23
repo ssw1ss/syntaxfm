@@ -5,10 +5,8 @@ const globalCSS = css`
     box-sizing: border-box;
   }
   body {
-    position: relative;
-    width: 100%;
+    overflow: hidden;
     margin: 0;
-    padding: 0;
     font-size: 15px;
     @media (min-width: 42rem) {
       font-size: 16px;

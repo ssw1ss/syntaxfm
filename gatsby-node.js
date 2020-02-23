@@ -31,24 +31,6 @@ exports.onCreateNode = ({ node, actions }) => {
   }
 }
 
-// exports.createResolvers = ({ createResolvers }) => {
-//   const resolvers = {
-//     Query: {
-//       latestEpisode: {
-//         type: `Mdx`,
-//         resolve: (_, __, context) => {
-//           const episodes = context.nodeModel.getAllNodes({ type: `Mdx` })
-//           const sortedEpisodes = episodes.sort((a, b) => {
-//             return b.frontmatter.number - a.frontmatter.number
-//           })
-//           return sortedEpisodes[0]
-//         },
-//       },
-//     },
-//   }
-//   createResolvers(resolvers)
-// }
-
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions
   const episodeTemplate = path.resolve(`src/templates/episodes/newSingle.js`)

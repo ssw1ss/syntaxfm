@@ -7,6 +7,7 @@ import BioCard from "./BioCard"
 
 const header = {
   variant: "layout.header",
+  px: [3, 4, 3, 3, 4],
   borderBottom: theme => [
     `3px solid ${theme.colors.backgroundSubtle}`,
     `3px solid ${theme.colors.backgroundSubtle}`,
@@ -37,7 +38,8 @@ const logo = {
 }
 const headerContent = {
   bg: "background",
-  p: ["1rem", "1rem", "1rem", "1rem", "2rem"],
+  px: [3, 4, 3, 3, 4],
+  py: "1rem",
   borderRight: theme => [
     "none",
     "none",
@@ -77,6 +79,7 @@ const HeaderControls = ({ isHomepage, showMenu, setShowMenu, ...props }) => {
           <Box
             sx={{
               display: ["block", "block", "block", "block", "block", "none"],
+              textAlign: "right",
             }}
           >
             {showMenu ? <Close /> : <MenuButton />}

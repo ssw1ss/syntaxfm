@@ -10,6 +10,10 @@ import Settings from "./Settings"
 import AudioRange from "./AudioRange"
 import Time from "./Time"
 
+import GearIcon from "../../images/gear.svg"
+import PlayIcon from "../../images/play.svg"
+import PauseIcon from "../../images/pause.svg"
+
 const audioPlayer = {
   display: "grid",
   gridTemplateRows: [".75rem auto", ".75rem auto", "auto .75rem"],
@@ -70,6 +74,11 @@ const audioIcon = {
   fontSize: 4,
   py: ".25rem",
   textAlign: "center",
+  fill: "text",
+  transition: "color .2s",
+  "&:hover": {
+    fill: "contrast",
+  },
 }
 const episodeTitle = {
   fontSize: 4,
@@ -90,10 +99,19 @@ const AudioPlayer = ({ latestEpisode, ...props }) => {
   }
   return (
     <Box sx={audioPlayer} {...props}>
-      <AudioRange sx={{ gridArea: "range" }} />
+      <AudioRange
+        sx={{ gridArea: "range" }}
+        episodeNumber={episode.frontmatter.number}
+      />
       <Box sx={audioPlayerContent}>
         <Flex sx={audioPlayIcon} onClick={handlePlayState}>
-          <Text sx={audioIcon}>{isPlaying ? `❚ ❚` : `▶`}</Text>
+          <Box sx={audioIcon}>
+            {isPlaying ? (
+              <PauseIcon sx={{ fill: "inherit", width: "100%" }} />
+            ) : (
+              <PlayIcon sx={{ fill: "inherit", width: "100%" }} />
+            )}
+          </Box>
           <Time />
         </Flex>
         <Heading as="h5" variant="h5" sx={episodeTitle}>
@@ -117,7 +135,9 @@ const AudioPlayer = ({ latestEpisode, ...props }) => {
           />
         </Box>
         <Flex sx={audioSettingsIcon} onClick={() => setVisible(!visible)}>
-          <Text sx={audioIcon}>O</Text>
+          <Box sx={audioIcon}>
+            <GearIcon sx={{ fill: "inherit", width: "100%" }} />
+          </Box>
           <Text sx={{ fontSize: ".65rem" }} variant="tabular">
             SETTINGS
           </Text>

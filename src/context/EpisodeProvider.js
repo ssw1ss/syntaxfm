@@ -6,6 +6,7 @@ const EpisodeDispatchContext = createContext()
 
 export const EpisodeProvider = ({ children }) => {
   const [episode, setEpisode] = useState({ ...episodes[0] })
+  console.log("episode provider changing")
   return (
     <EpisodeStateContext.Provider value={episode}>
       <EpisodeDispatchContext.Provider value={setEpisode}>

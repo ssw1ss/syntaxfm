@@ -8,7 +8,7 @@ const episodeItem = {
   width: "100%",
   alignItems: "center",
   justifyContent: "space-between",
-  px: [3, 3, 4],
+  px: [3, 4, 3],
   py: 3,
   borderBottom: "1px solid",
   borderColor: "backgroundSubtle",
