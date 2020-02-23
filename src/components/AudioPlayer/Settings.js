@@ -1,6 +1,5 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import React from "react"
 
 import { Box, Flex, Text, Link, ExternalLink } from "ui"
 import VolumeRange from "./VolumeRange"
@@ -40,12 +39,18 @@ const Settings = ({ download, notes }) => {
     <Box sx={settingsContainer}>
       <Flex sx={field}>
         <Link to={`/${notes}`} sx={label}>
-          📒Show notes
+          <span role="img" aria-label="show notes">
+            📒
+          </span>
+          Show notes
         </Link>
       </Flex>
       <Flex sx={field}>
         <ExternalLink href={download} sx={label}>
-          👇Download
+          <span role="img" aria-label="download episode">
+            👇
+          </span>
+          Download
         </ExternalLink>
       </Flex>
       <Flex sx={field}>

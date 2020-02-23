@@ -1,8 +1,7 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import React from "react"
 
-import { Box, Flex, ExternalLink, Text, Image } from "ui"
+import { Box, Flex, ExternalLink, Text } from "ui"
 
 const info = {
   alignItems: "center",

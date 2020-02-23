@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import React, { useState } from "react"
+import { useState } from "react"
 
 import { useEpisodeState } from "../../context/EpisodeProvider"
 import { useAudioDispatch } from "../../context/AudioProvider"

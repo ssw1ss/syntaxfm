@@ -1,6 +1,5 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import React from "react"
 import { graphql } from "gatsby"
 import { MDXProvider } from "@mdx-js/react"
 import { MDXRenderer } from "gatsby-plugin-mdx"
@@ -64,16 +63,25 @@ const EpisodeSingle = ({ data }) => {
           }}
         >
           <Text sx={episodeButton} {...onClick}>
-            👉 Play Episode
+            <span role="img" aria-label="play episode">
+              👉
+            </span>{" "}
+            Play Episode
           </Text>
           <ExternalLink sx={episodeButton} href={frontmatter.url}>
-            👇 Download Show
+            <span role="img" aria-label="download show">
+              👇
+            </span>{" "}
+            Download Show
           </ExternalLink>
           <ExternalLink
             sx={episodeButton}
             href={`https://github.com/wesbos/Syntax/edit/master/shows/${filename}`}
           >
-            📒 Edit Show Notes
+            <span role="img" aria-label="edit show notes">
+              📒
+            </span>{" "}
+            Edit Show Notes
           </ExternalLink>
         </Flex>
         <MDXProvider components={components}>

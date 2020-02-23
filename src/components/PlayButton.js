@@ -1,6 +1,6 @@
-import React, { useState } from "react"
+import React from "react"
 
-import { Box, Image } from "ui"
+import { Box } from "ui"
 import { useAudioDispatch } from "../context/AudioProvider"
 import { useEpisodeDispatch } from "../context/EpisodeProvider"
 

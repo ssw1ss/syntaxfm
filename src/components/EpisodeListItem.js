@@ -1,6 +1,5 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import React from "react"
 import { Flex, Link, Heading, Text } from "ui"
 import { PlayButton, SetEpisodeButton } from "./PlayButton"
 
@@ -64,34 +63,3 @@ const EpisodeListItem = ({
 }
 
 export default EpisodeListItem
-
-// const EpisodeListItem = React.memo(
-//   ({ episode, isCurrentEpisode }) => {
-//     console.log("episode list item render")
-//     return (
-//       <Flex sx={episodeItem}>
-//         <Link to={`/${episode.fields.url}`}>
-//           <Text variant="label">Episode #{episode.frontmatter.number}</Text>
-//           <Heading as="h4" variant="h4">
-//             {episode.frontmatter.title}
-//           </Heading>
-//         </Link>
-//         <Flex>
-//           {/* {isCurrentEpisode ? (
-//             <PlayButton />
-//           ) : (
-//             <SetPlayButton episode={episode} />
-//           )} */}
-//           <SetPlayButton episode={episode} />
-//         </Flex>
-//       </Flex>
-//     )
-//   },
-//   (prevProps, nextProps) => {
-//     const val =
-//       (!prevProps.isCurrentEpisode && prevProps.isCurrentEpisode !== null) ||
-//       !nextProps.isCurrentEpisode
-//     console.log("memoization: ", val)
-//     return val
-//   }
-// )
