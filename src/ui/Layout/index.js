@@ -57,7 +57,7 @@ const episodesContainer = {
 }
 const audioPlayer = {
   gridArea: "audioPlayer",
-  zIndex: 3,
+  zIndex: "3",
 }
 
 const Layout = ({ children, location }) => {
@@ -69,7 +69,7 @@ const Layout = ({ children, location }) => {
   const { colorMode, theme } = useThemeUI()
   const colorsKey =
     colorMode === "default" ? theme.colors : theme.colors.modes[colorMode]
-  const background = `background: ${colorsKey.background};`
+  const background = { background: `${colorsKey.background}` }
   return (
     <>
       <Helmet>

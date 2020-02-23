@@ -59,7 +59,7 @@ const EpisodeSingle = ({ data }) => {
           style={{
             marginBottom: "1rem",
             flexWrap: "wrap",
-            padding: "1rem 0 .75rem 0",
+            padding: "1rem 0rem .75rem 0rem",
           }}
         >
           <Text sx={episodeButton} {...onClick}>
