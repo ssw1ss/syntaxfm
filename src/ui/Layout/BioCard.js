@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
 
-import { Box, Flex, ExternalLink, Text } from "ui"
+import { Box, Flex, ExternalLink, Image, Text } from "ui"
 
 const info = {
   alignItems: "center",
@@ -18,9 +18,8 @@ const BioCard = ({ img, name, twitter, children }) => {
   return (
     <Box style={{ margin: "1.5rem 0" }}>
       <Flex sx={info}>
-        {/* <Image src={img} */}
         <Box>
-          <Box sx={imgsx} />
+          <Image sx={imgsx} src={img} />
         </Box>
         <Box>
           <Text>{name}</Text>

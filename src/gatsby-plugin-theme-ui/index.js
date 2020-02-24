@@ -124,6 +124,7 @@ export default {
       "&:hover": { color: "heading" },
     },
     primary: {
+      textDecoration: "none",
       color: "primary",
       opacity: ".85",
       "&:hover": {

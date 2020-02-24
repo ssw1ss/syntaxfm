@@ -4,6 +4,8 @@ import React, { useState } from "react"
 
 import { Box, Flex, Link, ExternalLink, Close, Heading, MenuButton } from "ui"
 import BioCard from "./BioCard"
+import wesbos from "../../images/wesbos.jpeg"
+import stolinski from "../../images/stolinski.jpeg"
 
 const header = {
   variant: "layout.header",
@@ -96,7 +98,7 @@ const HeaderContent = ({ showMenu, ...props }) => {
       <Heading as="h1" variant="h3">
         A hasty treats podcast for web developers. Brought to you by:
       </Heading>
-      <BioCard twitter="@wesbos" name="Wes Bos">
+      <BioCard twitter="@wesbos" name="Wes Bos" img={wesbos}>
         Full Stack JavaScript Developer. Creator of really good{" "}
         <ExternalLink
           target="_blank"
@@ -107,7 +109,7 @@ const HeaderContent = ({ showMenu, ...props }) => {
         </ExternalLink>
         . BBQ enthusiast.
       </BioCard>
-      <BioCard twitter="@stolinski" name="Scott Tolinski">
+      <BioCard twitter="@stolinski" name="Scott Tolinski" img={stolinski}>
         Web Developer, Creator of{" "}
         <ExternalLink
           target="_blank"
