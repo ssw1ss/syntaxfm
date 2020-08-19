@@ -35,7 +35,6 @@ const BioCard = ({ img, name, twitter, children }) => {
       <Text sx={{ paddingTop: ".5rem", textAlign: "left", fontSize: 4 }}>
         {children}
       </Text>
-      <img src="https://katiekodes.com/images/cornerlogo.svg" />
     </Box>
   )
 }
